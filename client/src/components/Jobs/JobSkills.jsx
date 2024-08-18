@@ -30,6 +30,7 @@ function JobSkills({ job }) {
   useEffect(() => {
     const fetchSkills = async () => {
       try {
+        console.log(job);
         const response = await axios.get(`${SERVER}/jobs/${job}`);
         const data = transformSkillsData(response.data);
         setSkills(data);
@@ -40,7 +41,6 @@ function JobSkills({ job }) {
         setLoading(false);
       }
     };
-
     fetchSkills();
   }, [job]);
 
@@ -48,7 +48,7 @@ function JobSkills({ job }) {
   if (error) return <Alert variant="danger">{error}</Alert>;
 
   return (
-    <div className="container mt-4">
+    <div className="container mt-4 text-center">
       <Row>
         {skills.map((skill) => (
           <Col md={12} key={skill.id} className="mb-3">
