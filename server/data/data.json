@@ -6361,7 +6361,9 @@
         "desc": "MP -100, Attack speed +1 level, Stance rate +20% for 200sec"
       },
       "name": "Equinox Cycle",
-      "desc": "Reconfigure the solar and lunar cycles. Boosts party members' attack speed and grants them a chance of resisting knock-back effects. The attack speed enhancement does not stack with Speed Infusion."
+      "desc": "Reconfigure the solar and lunar cycles. Boosts party members' attack speed and grants them a chance of resisting knock-back effects. The attack speed enhancement does not stack with Speed Infusion.",
+      "note": "Must be level 210 or above"
+    
     },
     "11120022": {
       "1": {

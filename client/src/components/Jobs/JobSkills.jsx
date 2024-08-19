@@ -1,5 +1,13 @@
 import React, { useEffect, useState } from "react";
-import { Spinner, Alert, Card, ListGroup, Col, Row } from "react-bootstrap";
+import {
+  Spinner,
+  Alert,
+  Card,
+  ListGroup,
+  Col,
+  Row,
+  Accordion,
+} from "react-bootstrap";
 import axios from "axios";
 import { SERVER } from "../../constants/config";
 
@@ -30,7 +38,6 @@ function JobSkills({ job }) {
   useEffect(() => {
     const fetchSkills = async () => {
       try {
-        console.log(job);
         const response = await axios.get(`${SERVER}/jobs/${job}`);
         const data = transformSkillsData(response.data);
         setSkills(data);
@@ -49,10 +56,10 @@ function JobSkills({ job }) {
 
   return (
     <div className="container mt-4 text-center">
-      <Row >
+      <Row>
         {skills.map((skill) => (
           <Col md={12} key={skill.id} className="mb-3">
-            <Card style={{backgroundColor: "#1B1B1B"}}>
+            <Card style={{ backgroundColor: "#1B1B1B" }}>
               <Card.Body>
                 <Row>
                   <Col md={6} className="text-white">
@@ -60,13 +67,19 @@ function JobSkills({ job }) {
                       variant="top"
                       src={`${SERVER}/skills/${skill.id}.png`}
                       alt={skill.id}
-                      style={{ width: '32px', height: '32px', objectFit: 'cover' }} 
+                      style={{
+                        width: "32px",
+                        height: "32px",
+                        objectFit: "cover",
+                      }}
                     />
                     <Card.Title>{skill.name}</Card.Title>
                     <Card.Text>
                       <span>{skill.desc}</span>
 
-                      <span className="d-block" style={{color:"red"}}>{skill.note}</span>
+                      <span className="d-block" style={{ color: "red" }}>
+                        {skill.note}
+                      </span>
                     </Card.Text>
                   </Col>
                   {/* Second Column: Skill Levels */}
@@ -74,14 +87,25 @@ function JobSkills({ job }) {
                     <Card.Text>
                       <strong>Skill Levels:</strong>
                     </Card.Text>
-                    <ListGroup variant="flush">
-                      {skill.levels.map((level) => (
-                        <ListGroup.Item key={level.level}>
-                          <strong>Level {level.level}:</strong>{" "}
-                          {level.description}
-                        </ListGroup.Item>
-                      ))}
-                    </ListGroup>
+                    <Accordion>
+                      <Accordion.Item eventKey={skill.id}>
+                        <Accordion.Header className="custom-header">
+                          <div className="header-text">
+                            Skill Levels 
+                          </div>
+                        </Accordion.Header>
+                        <Accordion.Body>
+                          <ListGroup variant="flush">
+                            {skill.levels.map((level) => (
+                              <ListGroup.Item key={level.level}>
+                                <strong>Level {level.level}:</strong>{" "}
+                                {level.description}
+                              </ListGroup.Item>
+                            ))}
+                          </ListGroup>
+                        </Accordion.Body>
+                      </Accordion.Item>
+                    </Accordion>
                   </Col>
                 </Row>
               </Card.Body>
