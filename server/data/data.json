@@ -18,7 +18,7 @@
         "desc": "MP -30 Weapon attack +4%, Magic attack +4%  for 40Minutes"
       },
       "name": "Echo of Hero",
-      "desc": "[Master Level: 1]  Increase weapon attack and magic attack on all players around.  #cTerms between skills: 2hours#"
+      "desc": "[Master Level: 1]  Increase weapon attack and magic attack on all players around.  Terms between skills: 2hours"
     },
     "0001006": {
       "name": "Jump Down",
@@ -38,7 +38,7 @@
         "desc": "MP -30; Recover HP 72 in 30 sec."
       },
       "name": "Recovery",
-      "desc": "[Master Level: 3] Enables the user to recover HP constantly for 30 sec.  #cTerms between skills: 10 min.#"
+      "desc": "[Master Level: 3] Enables the user to recover HP constantly for 30 sec.  Terms between skills: 10 min."
     },
     "0001002": {
       "1": {
@@ -54,7 +54,7 @@
         "desc": "MP -10; speed +20 for 12 sec."
       },
       "name": "Nimble Feet",
-      "desc": "[Master Level: 3] Enables the character to move around quickly for a short amount of time.  #cTerms between skills: 1 min.#"
+      "desc": "[Master Level: 3] Enables the character to move around quickly for a short amount of time.  Terms between skills: 1 min."
     },
     "0001000": {
       "1": {
@@ -118,23 +118,23 @@
         "desc": "Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"
       },
       "name": "Spaceship",
-      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-08-2009 at 00 hour#"
+      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-08-2009 at 00 hour"
     },
     "0001014": {
       "1": {
         "mp": "10",
-        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-08-2009 at 00 hour#"
+        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-08-2009 at 00 hour"
       },
       "name": "Space Dash",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-08-2009 at 00 hour#"
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-08-2009 at 00 hour"
     },
     "0001015": {
       "1": {
         "time": "1",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-08-2009 at 00 hour#"
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-08-2009 at 00 hour"
       },
       "name": "Space Beam",
-      "desc": "[Master Level: 1] Changes the condition of the Krypto found at the Space Mine. #cAvailable until: 06-08-2009 at 00 hour#"
+      "desc": "[Master Level: 1] Changes the condition of the Krypto found at the Space Mine. Available until: 06-08-2009 at 00 hour"
     },
     "0001017": {
       "1": {
@@ -142,7 +142,7 @@
         "desc": "MP -10; Weapon and Magic DEF +10, Speed +120, Jump +120"
       },
       "name": "Yeti Rider",
-      "desc": "[Master Level: 1] Allows one to ride on a Yeti. #cAvailable until: 7/9/2009 at 00:00#"
+      "desc": "[Master Level: 1] Allows one to ride on a Yeti. Available until: 7/9/2009 at 00:00"
     },
     "0001020": {
       "name": "Rage of Pharaoh",
@@ -298,23 +298,23 @@
         "desc": "Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"
       },
       "name": "Spaceship",
-      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-15-2010 at midnight#"
+      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-15-2010 at midnight"
     },
     "0001047": {
       "1": {
         "mp": "10",
-        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-15-2010 at midnight#"
+        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-15-2010 at midnight"
       },
       "name": "Space Dash",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "0001048": {
       "1": {
         "time": "1",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
       },
       "name": "Space Beam",
-      "desc": "[Master Level: 1] Changes the condition of the Krypto found at the Space Mine. #cAvailable until: 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Changes the condition of the Krypto found at the Space Mine. Available until: 06-15-2010 at midnight "
     },
     "0001054": {
       "1": {
@@ -661,7 +661,7 @@
         "desc": "MP -30, Weapon damage +10%, Total Magic +10% for 40 minutes"
       },
       "name": "Advanced Echo of Hero",
-      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. #cTerms between skills: 2hours#"
+      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. Terms between skills: 2hours"
     }
   },
   "100": {
@@ -775,7 +775,7 @@
         "desc": "If Level UP, +40 more; if AP applied, +30 more on top on MaxHP"
       },
       "name": "Improved MaxHP Increase",
-      "desc": "Master Level: 10] This skill boosts up the amount of increase on MaxHP after each Level UP, or AP used on MaxHP. Required Skill: #cAt least Level 5 on Improving HP Recovery.#"
+      "desc": "Master Level: 10] This skill boosts up the amount of increase on MaxHP after each Level UP, or AP used on MaxHP. Required Skill: At least Level 5 on Improving HP Recovery."
     },
     "1000002": {
       "1": {
@@ -811,7 +811,7 @@
         "desc": "Recover HP every 10 sec."
       },
       "name": "Endure",
-      "desc": "[Master Level: 8] Even when hanging on the rope or on a ladder, you'll be able to recover some HP after a certain amount of time. Required Skill: #cAt least Level 3 on Improving MaxHP Increase.#"
+      "desc": "[Master Level: 8] Even when hanging on the rope or on a ladder, you'll be able to recover some HP after a certain amount of time. Required Skill: At least Level 3 on Improving MaxHP Increase."
     },
     "1001003": {
       "1": {
@@ -895,7 +895,7 @@
         "desc": "MP -15; weapon def. +40 for 300 sec."
       },
       "name": "Iron Body",
-      "desc": "[Master Level: 20] Temporarily increases your weapon defense. Required Skill: #cAt least Level 3 on Endure#"
+      "desc": "[Master Level: 20] Temporarily increases your weapon defense. Required Skill: At least Level 3 on Endure"
     },
     "1001004": {
       "1": {
@@ -1063,7 +1063,7 @@
         "desc": "HP -16, MP -14; damage 130%"
       },
       "name": "Slash Blast",
-      "desc": "[Master Level: 20] Use HP and MP to attack every enemy around you with a sword. Required Skill: #cAt least Level 1 on Power Strike#"
+      "desc": "[Master Level: 20] Use HP and MP to attack every enemy around you with a sword. Required Skill: At least Level 1 on Power Strike"
     }
   },
   "1000": {
@@ -1097,7 +1097,7 @@
         "desc": "MP -30; Recover HP 72 in 30 sec."
       },
       "name": "Recovery",
-      "desc": "[Master Level: 3] Enables the user to recover HP constantly for 30 sec.  #cTerms between skills: 10 min.#"
+      "desc": "[Master Level: 3] Enables the user to recover HP constantly for 30 sec.  Terms between skills: 10 min."
     },
     "10001002": {
       "1": {
@@ -1113,7 +1113,7 @@
         "desc": "MP -10; speed +20 for 12 sec."
       },
       "name": "Nimble Feet",
-      "desc": "[Master Level: 3] Enables the character to move around quickly for a short amount of time.  #cTerms between skills: 1 min.#"
+      "desc": "[Master Level: 3] Enables the character to move around quickly for a short amount of time.  Terms between skills: 1 min."
     },
     "10001003": {
       "name": "Legendary Spirit",
@@ -1133,7 +1133,7 @@
         "desc": "Consumes MP 30 and increases Weapon &amp; Magic Attack by 4% for 40Minutes."
       },
       "name": "Echo of Hero",
-      "desc": "[Master Lever: 1]  Increase weapon attack and magic attack on all players around.  #cTerms between skills: 2hours#"
+      "desc": "[Master Lever: 1]  Increase weapon attack and magic attack on all players around.  Terms between skills: 2hours"
     },
     "10001006": {
       "name": "Jump Down",
@@ -1190,23 +1190,23 @@
         "desc": "Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"
       },
       "name": "Spaceship",
-      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-08-2009 at 00 hour#"
+      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-08-2009 at 00 hour"
     },
     "10001015": {
       "1": {
         "mp": "10",
-        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-08-2009 at 00 hour#"
+        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-08-2009 at 00 hour"
       },
       "name": "Space Dash",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-08-2009 at 00 hour#"
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-08-2009 at 00 hour"
     },
     "10001016": {
       "1": {
         "mp": "1",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-08-2009 at 00 hour#"
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-08-2009 at 00 hour"
       },
       "name": "Space Beam",
-      "desc": "[Master Level: 1] Changes the condition of the Krypto found at the Space Mine. #cAvailable until: 06-08-2009 at 00 hour#"
+      "desc": "[Master Level: 1] Changes the condition of the Krypto found at the Space Mine. Available until: 06-08-2009 at 00 hour"
     },
     "10001019": {
       "1": {
@@ -1214,7 +1214,7 @@
         "desc": "MP -10; Weapon and Magic DEF +10, Speed +120, Jump +120"
       },
       "name": "Yeti Rider",
-      "desc": "[Master Level: 1] Allows one to ride on a Yeti. #cAvailable until: 7/9/2009 at 00:00#"
+      "desc": "[Master Level: 1] Allows one to ride on a Yeti. Available until: 7/9/2009 at 00:00"
     },
     "10001020": {
       "name": "Rage of Pharaoh",
@@ -1370,23 +1370,23 @@
         "desc": "Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"
       },
       "name": "Spaceship",
-      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-15-2010 at midnight#"
+      "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-15-2010 at midnight"
     },
     "10001047": {
       "1": {
         "mp": "10",
-        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. #Available until: 06-15-2010 at midnight#"
+        "desc": "[Master Level: 2] You board a spaceship. While aboard, you can increase your movement and jump abilities by pressing the right/left direction key twice. Available until: 06-15-2010 at midnight"
       },
       "name": "Space Dash",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "10001048": {
       "1": {
         "time": "1",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
       },
       "name": "Space Beam",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "10001054": {
       "1": {
@@ -1733,7 +1733,7 @@
         "desc": "MP -30, Weapon damage +10%, Total Magic +10% for 40 minutes"
       },
       "name": "Advanced Echo of Hero",
-      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. #cTerms between skills: 2hours#"
+      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. Terms between skills: 2hours"
     }
   },
   "110": {
@@ -1987,7 +1987,7 @@
         "desc": "60% success rate, final attack damage 250%"
       },
       "name": "Final Attack: Sword",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand sword. Required Skill: #cAt least Level 3 on Sword Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand sword. Required Skill: At least Level 3 on Sword Mastery"
     },
     "1100003": {
       "1": {
@@ -2071,7 +2071,7 @@
         "desc": "60% success rate, final attack damage 350%"
       },
       "name": "Final Attack: Axe",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand axe. Required Skill: #cAt least Level 3 on Axe Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand axe. Required Skill: At least Level 3 on Axe Mastery"
     },
     "1101004": {
       "1": {
@@ -2155,7 +2155,7 @@
         "desc": "HP -10, MP -10; increase in sword speed for 300 sec."
       },
       "name": "Sword Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped sword. It only applies when either a one-handed or a two-handed sword is in hand. Required Skill: #cAt least Level 5 on Sword Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped sword. It only applies when either a one-handed or a two-handed sword is in hand. Required Skill: At least Level 5 on Sword Mastery"
     },
     "1101005": {
       "1": {
@@ -2239,7 +2239,7 @@
         "desc": "HP -10, MP -10; increase in axe speed for 300 sec."
       },
       "name": "Axe Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped axe. It only applies when either a one-handed or a two-handed axe is in hand. Required Skill: #cAt least Level 5 on Axe Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped axe. It only applies when either a one-handed or a two-handed axe is in hand. Required Skill: At least Level 5 on Axe Mastery"
     },
     "1101006": {
       "1": {
@@ -2447,7 +2447,7 @@
         "desc": "MP -30; For 300 sec, return 40% of the damage received."
       },
       "name": "Power Guard",
-      "desc": "[Master Level: 30] Returns a portion of the damage received from the enemy. Can't return more than 10% of the enemy's Max HP at once, however. Required Skill: #cAt least Level 3 on Rage#"
+      "desc": "[Master Level: 30] Returns a portion of the damage received from the enemy. Can't return more than 10% of the enemy's Max HP at once, however. Required Skill: At least Level 3 on Rage"
     }
   },
   "1100": {
@@ -2705,7 +2705,7 @@
         "desc": "HP -16, MP -14; Damage 130%"
       },
       "name": "Slash Blast",
-      "desc": "[Master Level: 20] Swing your weapon to attack multiple enemies in front of you. Required Skill: #cAt least Level 1 on Power Strike#"
+      "desc": "[Master Level: 20] Swing your weapon to attack multiple enemies in front of you. Required Skill: At least Level 1 on Power Strike"
     },
     "11001004": {
       "1": {
@@ -3083,7 +3083,7 @@
         "desc": "Use 24 MP, Damage 350%, Attack with Dark Power 90%"
       },
       "name": "Panic: Sword",
-      "desc": "[Master Level: 30]  Attack a single monster using dark powers. This skill can only be used when equipped with a sword and the combo all charged up. Required Skill: #cAt least Level 1 on Combo Attack#"
+      "desc": "[Master Level: 30]  Attack a single monster using dark powers. This skill can only be used when equipped with a sword and the combo all charged up. Required Skill: At least Level 1 on Combo Attack"
     },
     "1111004": {
       "1": {
@@ -3207,7 +3207,7 @@
         "desc": "Use 24 MP, Damage 350%, Attack with Dark Power 90%"
       },
       "name": "Panic: Axe",
-      "desc": "[Master Level: 30]  Attack a single monster using dark powers. This skill can only be used when equipped with an axe and the combo all charged up. Required Skill: #cAt least Level 1 on Combo Attack#"
+      "desc": "[Master Level: 30]  Attack a single monster using dark powers. This skill can only be used when equipped with an axe and the combo all charged up. Required Skill: At least Level 1 on Combo Attack"
     },
     "1111005": {
       "1": {
@@ -3331,7 +3331,7 @@
         "desc": "Use 25 HP, 26 MP, Damage 200%, Stun Attack 90%"
       },
       "name": "Coma: Sword",
-      "desc": "[Master Level: 30]  If struck cleanly, the monster becomes panicked. This skill can only be used when equipped with a sword and the combo all charged up. Required Skill: #cAt least Level 1 on Combo Attack#"
+      "desc": "[Master Level: 30]  If struck cleanly, the monster becomes panicked. This skill can only be used when equipped with a sword and the combo all charged up. Required Skill: At least Level 1 on Combo Attack"
     },
     "1111006": {
       "1": {
@@ -3455,7 +3455,7 @@
         "desc": "Use 25 HP, 26 MP, Damage 200%, Stun Attack 90%"
       },
       "name": "Coma: Axe",
-      "desc": "[Master Level: 30]  If struck cleanly, the monster becomes panicked. This skill can only be used when equipped with an axe and the combo all charged up. Required Skill: #cAt least Level 1 on Combo Attack#"
+      "desc": "[Master Level: 30]  If struck cleanly, the monster becomes panicked. This skill can only be used when equipped with an axe and the combo all charged up. Required Skill: At least Level 1 on Combo Attack"
     },
     "1111007": {
       "1": {
@@ -3539,7 +3539,7 @@
         "desc": "MP -7, Success rate 100%. Cancel out Enemy's Physical Defense-Up"
       },
       "name": "Armor Crash",
-      "desc": "[Master Level: 20]  Nullifies the defense buff used by the monster with a given success rate. Required Skill: #cAt least Level 3 on Shout#"
+      "desc": "[Master Level: 20]  Nullifies the defense buff used by the monster with a given success rate. Required Skill: At least Level 3 on Shout"
     },
     "1111002": {
       "1": {
@@ -3997,7 +3997,7 @@
         "desc": "Activates 250% damage Final Attack at 60% success rate for 300 sec. by using MP 12."
       },
       "name": "Final Attack",
-      "desc": "[Master Level: 30] Enables consecutive attacks when an attack skill is applied at a regular interval and pre-established amount of MP is used. It only applies when a one-handed or a two-handed Sword is in hand.  Required Skill:   At least Lv.3 on Sword Mastery#"
+      "desc": "[Master Level: 30] Enables consecutive attacks when an attack skill is applied at a regular interval and pre-established amount of MP is used. It only applies when a one-handed or a two-handed Sword is in hand.  Required Skill:   At least Lv.3 on Sword Mastery"
     },
     "11101003": {
       "1": {
@@ -4333,7 +4333,7 @@
         "desc": "HP -10, MP -10; increase in Sword speed for 300 sec."
       },
       "name": "Sword Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost the attack speed of the Sword. It only applies when either a one-handed or a two-handed Sword is in hand. Required Skill:  #cAt least Level 5 on Sword Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost the attack speed of the Sword. It only applies when either a one-handed or a two-handed Sword is in hand. Required Skill:  At least Level 5 on Sword Mastery"
     }
   },
   "1111": {
@@ -4587,7 +4587,7 @@
         "desc": "MP -17, Damage 320%, 80% Rate of Shadow Attack."
       },
       "name": "Panic",
-      "desc": "[Master Level: 20] Attacks a single enemy. It is only available when the Sword is equipped and the Combo Counter is activated. Required Skill: #cCombo Attack higher than level 1.#"
+      "desc": "[Master Level: 20] Attacks a single enemy. It is only available when the Sword is equipped and the Combo Counter is activated. Required Skill: Combo Attack higher than level 1."
     },
     "11111003": {
       "1": {
@@ -4671,7 +4671,7 @@
         "desc": "HP 20, MP -19, Damage 170%, 80% Rate of Comma Attack."
       },
       "name": "Coma",
-      "desc": "[Master Level: 20] Put monsters nearby in coma. Only available when the Sword is equipped and Combo Counter is activated: #cCombo Attack higher than level 1 required.#"
+      "desc": "[Master Level: 20] Put monsters nearby in coma. Only available when the Sword is equipped and Combo Counter is activated: Combo Attack higher than level 1 required."
     },
     "11111004": {
       "1": {
@@ -4879,7 +4879,7 @@
         "desc": "Damage 20%, max combo counter 5, 80% chance to charge 2 combo counters."
       },
       "name": "Advanced Combo",
-      "desc": "[Master Level: 20] Increases the damage and the maximum combo orbs of Combo Attack. Also grants a chance to charge 2 combo orbs with one attack. Required Skill: #cCombo Attack Lv. 20#"
+      "desc": "[Master Level: 20] Increases the damage and the maximum combo orbs of Combo Attack. Also grants a chance to charge 2 combo orbs with one attack. Required Skill: Combo Attack Lv. 20"
     },
     "11111006": {
       "1": {
@@ -6363,7 +6363,6 @@
       "name": "Equinox Cycle",
       "desc": "Reconfigure the solar and lunar cycles. Boosts party members' attack speed and grants them a chance of resisting knock-back effects. The attack speed enhancement does not stack with Speed Infusion.",
       "note": "Must be level 210 or above"
-    
     },
     "11120022": {
       "1": {
@@ -6901,7 +6900,7 @@
         "desc": "Damage +60%, Max Combo count +5, recharge 2 combo orbs with success rate 80%."
       },
       "name": "Advanced Combo Attack",
-      "desc": "Increases the damage and the maximum combo orbs of Combo Attack. Also grants a chance to charge 2 combo orbs with one attack. Required skill: #cCombo attack level 30#"
+      "desc": "Increases the damage and the maximum combo orbs of Combo Attack. Also grants a chance to charge 2 combo orbs with one attack. Required skill: Combo attack level 30"
     },
     "1121000": {
       "1": {
@@ -7641,7 +7640,7 @@
         "desc": "MP -40, Weapon attack +60 for 180secs"
       },
       "name": "Enrage",
-      "desc": "Temporarily increases the attacking ability by using up the 10 combo counters.   Cooldown: 5 min#"
+      "desc": "Temporarily increases the attacking ability by using up the 10 combo counters.   Cooldown: 5 min"
     },
     "1121011": {
       "1": {
@@ -8253,7 +8252,7 @@
         "desc": "MP -60, Damage 215%, attack up to 3 enemies."
       },
       "name": "Raging Blow",
-      "desc": "Quickly attack enemies with 4 consecutive blows. #cCan only be used when Enrage is active.#"
+      "desc": "Quickly attack enemies with 4 consecutive blows. Can only be used when Enrage is active."
     }
   },
   "120": {
@@ -8507,7 +8506,7 @@
         "desc": "60% success rate, final attack damage 250%"
       },
       "name": "Final Attack: Sword",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand sword. Required Skill: #cAt least Level 3 on Sword Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand sword. Required Skill: At least Level 3 on Sword Mastery"
     },
     "1200003": {
       "1": {
@@ -8591,7 +8590,7 @@
         "desc": "60% success rate, final attack damage 250%"
       },
       "name": "Final Attack: BW",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand blunt weapon. Required Skill: #cAt least Level 3 on BW Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand blunt weapon. Required Skill: At least Level 3 on BW Mastery"
     },
     "1201004": {
       "1": {
@@ -8675,7 +8674,7 @@
         "desc": "HP -10, MP -10; increase in sword speed for 300 sec."
       },
       "name": "Sword Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped sword. It only applies when either a one-handed or a two-handed sword is in hand. Required Skill: #cAt least Level 5 on Sword Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped sword. It only applies when either a one-handed or a two-handed sword is in hand. Required Skill: At least Level 5 on Sword Mastery"
     },
     "1201005": {
       "1": {
@@ -8759,7 +8758,7 @@
         "desc": "HP -10, MP -10; increase in mace speed for 300 sec."
       },
       "name": "BW Booster",
-      "desc": "[Master Level: 20] Uses HP and MP  to temporarily boost up the attacking speed of the equipped blunt weapon. It only applies when either a one-handed or a two-handed blunt weapon is in hand. Required Skill: #cAt least Level 5 on Mace Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP  to temporarily boost up the attacking speed of the equipped blunt weapon. It only applies when either a one-handed or a two-handed blunt weapon is in hand. Required Skill: At least Level 5 on Mace Mastery"
     },
     "1201006": {
       "1": {
@@ -8967,7 +8966,7 @@
         "desc": "MP -30 for 300 sec, return 40% of the damage received."
       },
       "name": "Power Guard",
-      "desc": "[Master Level: 30] Returns a portion of the damage received from the enemy. Can't return more than 10% of the enemy's Max HP at once, however. Required Skill: #cAt least Level 3 on Threaten#"
+      "desc": "[Master Level: 30] Returns a portion of the damage received from the enemy. Can't return more than 10% of the enemy's Max HP at once, however. Required Skill: At least Level 3 on Threaten"
     }
   },
   "1200": {
@@ -9101,7 +9100,7 @@
         "desc": "MP -16; weapon def. +40 for 400 sec."
       },
       "name": "Magic Armor",
-      "desc": "[Master Level: 10] Temporarily enhances the Weapon Def. of the armor by applying magic for a given duration. Required Skill:  #cAt least Level 3 on Magic Guard#"
+      "desc": "[Master Level: 10] Temporarily enhances the Weapon Def. of the armor by applying magic for a given duration. Required Skill:  At least Level 3 on Magic Guard"
     },
     "12001003": {
       "1": {
@@ -10019,7 +10018,7 @@
         "desc": "MP -7, Success rate 100%. Cancel out Enemy's Magical Defense-Up"
       },
       "name": "Magic Crash",
-      "desc": "[Master Level: 20]  Nullifies the magic defense buff used by the monster with a given success rate. Required Skill: #cAt least Level 3 on Charged Blow#"
+      "desc": "[Master Level: 20]  Nullifies the magic defense buff used by the monster with a given success rate. Required Skill: At least Level 3 on Charged Blow"
     },
     "1211002": {
       "1": {
@@ -10561,7 +10560,7 @@
         "desc": "MP -16; enemy's moving speed -40 for 40 sec."
       },
       "name": "Slow",
-      "desc": "[Master Level: 20] Temporrily slows down the enemies around you. Can't use it on them twice at once, and affects only 6 enemies per say. Required Skill:  #cAt least Level 5 on Teleport#"
+      "desc": "[Master Level: 20] Temporrily slows down the enemies around you. Can't use it on them twice at once, and affects only 6 enemies per say. Required Skill:  At least Level 5 on Teleport"
     },
     "12101002": {
       "1": {
@@ -11235,7 +11234,7 @@
         "desc": "MP -30, sealed at 95% chance for 20 sec."
       },
       "name": "Seal",
-      "desc": "[Master Level: 20] Seals multiple enemies nearby for a given duration. Once sealed, the monsters will not be able to use their skills to attack. This does not apply to the Boss Monsters.  Required Skill:   At least Level 3 on Element Amplification #"
+      "desc": "[Master Level: 20] Seals multiple enemies nearby for a given duration. Once sealed, the monsters will not be able to use their skills to attack. This does not apply to the Boss Monsters.  Required Skill:   At least Level 3 on Element Amplification "
     },
     "12111003": {
       "1": {
@@ -12105,7 +12104,7 @@
         "desc": "MP -1500, attacks up to 10 monsters dealing 800% damage, Mastery 60%, +1 attack count."
       },
       "name": "Dragon Blaze",
-      "desc": "Unleashes an immense charged ball of fire at nearby enemies.   Cooldown: 5 seconds#"
+      "desc": "Unleashes an immense charged ball of fire at nearby enemies.   Cooldown: 5 seconds"
     },
     "12121021": {
       "1": {
@@ -12318,7 +12317,7 @@
       },
       "name": "High Wisdom",
       "desc": "Permanently increases intelligence and improves the effects of Spell Booster.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "12120001": {
       "1": {
@@ -12443,7 +12442,7 @@
       },
       "name": "Infinity - Cooldown Cutter",
       "desc": "Reduces the cooldown of Infinity.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "12120002": {
       "1": {
@@ -12528,7 +12527,7 @@
       },
       "name": "Teleport Mastery",
       "desc": "Increases the travel distance of Teleport.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "12120003": {
       "1": {
@@ -12613,7 +12612,7 @@
       },
       "name": "Flame Vortex - Extra Strike",
       "desc": "Given a chance, allows Flame Vortex to deal an additional strike.",
-      "note" : "Must be level 240 or above"
+      "note": "Must be level 240 or above"
     },
     "12120004": {
       "1": {
@@ -12698,7 +12697,7 @@
       },
       "name": "Element Amplification Boost",
       "desc": "Improves the bonus magic damage provided by Element Amplification.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "12121003": {
       "1": {
@@ -12782,7 +12781,7 @@
         "desc": "MP -40, for 45secs."
       },
       "name": "Flame Barrier",
-      "desc": "Summons a wall of flames around party members which temporarily reduces the duration of new abnormal conditions by 30%.   Cooldown: 3 min#"
+      "desc": "Summons a wall of flames around party members which temporarily reduces the duration of new abnormal conditions by 30%.   Cooldown: 3 min"
     },
     "12121005": {
       "1": {
@@ -12946,7 +12945,7 @@
         "desc": "MP -500, Damage 1200%, Magic Defense -90%, Mastery 60% for 30 seconds, attack count +2"
       },
       "name": "Megiddo Flame",
-      "desc": "Fires a blue flame that burns the enemy to the very soul, causing it's magic def. to drop for a limited time.   Cooldown: 2min#"
+      "desc": "Fires a blue flame that burns the enemy to the very soul, causing it's magic def. to drop for a limited time.   Cooldown: 2min"
     },
     "12120022": {
       "1": {
@@ -14585,9 +14584,8 @@
       },
       "name": "Heaven's Hammer - Double Damage",
       "desc": "Given a chance, allows Heaven's Hammer to deal twice as much damage against boss-type monsters.",
-      "note" : "Must be level 225 or above"
-    
-},
+      "note": "Must be level 225 or above"
+    },
     "1220014": {
       "1": {
         "x": "1",
@@ -15244,7 +15242,7 @@
         "desc": "MP -60; +60% Max HP and Max MP for 300 sec."
       },
       "name": "Hyper Body",
-      "desc": "[Master Level: 30] Temporarily increases the Max HP and Max MP of all party members around the area. Required Skill: #cAt least Level 3 on Iron Will#"
+      "desc": "[Master Level: 30] Temporarily increases the Max HP and Max MP of all party members around the area. Required Skill: At least Level 3 on Iron Will"
     },
     "1300002": {
       "1": {
@@ -15328,7 +15326,7 @@
         "desc": "60% success rate, final attack damage 250%"
       },
       "name": "Final Attack: Spear",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a spear. Required Skill: #cAt least Level 3 on Spear Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a spear. Required Skill: At least Level 3 on Spear Mastery"
     },
     "1300003": {
       "1": {
@@ -15412,7 +15410,7 @@
         "desc": "60% success rate, final attack damage 250%"
       },
       "name": "Final Attack: Pole Arm",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a pole arm. Required Skill: #cAt least Level 3 on Pole Arm Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a pole arm. Required Skill: At least Level 3 on Pole Arm Mastery"
     },
     "1301004": {
       "1": {
@@ -15496,7 +15494,7 @@
         "desc": "HP -10, MP -10; increase in spear speed for 300 sec."
       },
       "name": "Spear Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped spear. It only applies when a spear is in hand. Required Skill: #cAt least Level 5 on Spear Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped spear. It only applies when a spear is in hand. Required Skill: At least Level 5 on Spear Mastery"
     },
     "1301005": {
       "1": {
@@ -15580,7 +15578,7 @@
         "desc": "HP -10, MP -10; increase in pole arm speed for 300 sec."
       },
       "name": "Pole Arm Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped pole arm. It only applies when a pole arm is in hand. Required Skill: #cAt least Level 5 on Pole Arm Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the equipped pole arm. It only applies when a pole arm is in hand. Required Skill: At least Level 5 on Pole Arm Mastery"
     }
   },
   "1300": {
@@ -15746,7 +15744,7 @@
         "desc": "MP -12; accuracy +20, avoidability +20 for 200 sec."
       },
       "name": "Focus",
-      "desc": "[Master Level: 10] Enhances Accuracy and Avoidability for a given duration.  Required Skill:   At least Level 3 on the Eye of Amazon #"
+      "desc": "[Master Level: 10] Enhances Accuracy and Avoidability for a given duration.  Required Skill:   At least Level 3 on the Eye of Amazon "
     },
     "13001003": {
       "1": {
@@ -16828,7 +16826,7 @@
         "desc": "MP -7, Success rate 100%. Cancels out enemy Power-Up Skill."
       },
       "name": "Power Crash",
-      "desc": "[Master Level: 20]  Nullifies &quot;power-up&quot; skills of multiple monsters with a given success rate. Required Skill: #cAt least Level 3 on Dragon Blood#"
+      "desc": "[Master Level: 20]  Nullifies &quot;power-up&quot; skills of multiple monsters with a given success rate. Required Skill: At least Level 3 on Dragon Blood"
     },
     "1311008": {
       "1": {
@@ -17082,7 +17080,7 @@
         "desc": "HP -10, MP -10; increase in bow-attack Speed for 300 sec."
       },
       "name": "Bow Booster",
-      "desc": "[Master Level: 20] Enhances the Speed of bow attack for a given duration using HP and MP. It only applies when the bow is in hand.  Required Skill:   At least Level 5 on Bow Mastery #"
+      "desc": "[Master Level: 20] Enhances the Speed of bow attack for a given duration using HP and MP. It only applies when the bow is in hand.  Required Skill:   At least Level 5 on Bow Mastery "
     },
     "13101002": {
       "1": {
@@ -17206,7 +17204,7 @@
         "desc": "MP -12, for 300sec. at a rate of 60%, Final Attack with bow Damage 250%."
       },
       "name": "Final Attack",
-      "desc": "[Master Level: 30] Consecutive attack is activated by using a pre-established amount of MP after applying the attack skill at a regular interval. It only applies when the bow is equipped in hand.  Required Skill:   At least Level 3 on Bow Mastery #"
+      "desc": "[Master Level: 30] Consecutive attack is activated by using a pre-established amount of MP after applying the attack skill at a regular interval. It only applies when the bow is equipped in hand.  Required Skill:   At least Level 3 on Bow Mastery "
     },
     "13101003": {
       "1": {
@@ -17290,7 +17288,7 @@
         "desc": "MP -20; attack for 600 sec without using up an arrow."
       },
       "name": "Soul Arrow",
-      "desc": "[Master Level: 20] Temporarily allows the character to fire bow arrows without using up the arrows. Ignores bonus damage from arrows. Required Skill:   At least Level 5 on Bow Booster  #"
+      "desc": "[Master Level: 20] Temporarily allows the character to fire bow arrows without using up the arrows. Ignores bonus damage from arrows. Required Skill:   At least Level 5 on Bow Booster  "
     },
     "13100004": {
       "1": {
@@ -17796,7 +17794,7 @@
         "desc": "MP -30, damage 550%, attack 6 monsters."
       },
       "name": "Wind Piercing",
-      "desc": "[Master Level: 20] Inflicts a significant damage on multiple monsters at once with a single powerful blow. Available only during the character\u2019s transformed state of Eagle Eye.  Required skill: #cEagle Eye over level 1#"
+      "desc": "[Master Level: 20] Inflicts a significant damage on multiple monsters at once with a single powerful blow. Available only during the character\u2019s transformed state of Eagle Eye.  Required skill: Eagle Eye over level 1"
     },
     "13111007": {
       "1": {
@@ -17880,7 +17878,7 @@
         "desc": "MP -33, Damage 350%"
       },
       "name": "Wind Shot",
-      "desc": "[Master Level: 20] Fires 3 arrows to inflict damage on monsters. Available only during the character\u2019s transformed state of Eagle Eye.  Required skill: #cEagle Eye over level 1#"
+      "desc": "[Master Level: 20] Fires 3 arrows to inflict damage on monsters. Available only during the character\u2019s transformed state of Eagle Eye.  Required skill: Eagle Eye over level 1"
     },
     "13110003": {
       "1": {
@@ -17964,7 +17962,7 @@
         "desc": "Bow Mastery 90%, Weapon attack + 15"
       },
       "name": "Bow Expert",
-      "desc": "[Master Level: 20] Enhances Mastery and Attack Rate of bow-type weapons. It can only be applied when the character is equipped with a bow.  Required Skill:    Bow Mastery level 20 #"
+      "desc": "[Master Level: 20] Enhances Mastery and Attack Rate of bow-type weapons. It can only be applied when the character is equipped with a bow.  Required Skill:    Bow Mastery level 20 "
     },
     "13111000": {
       "1": {
@@ -18842,7 +18840,7 @@
         "desc": "MP -40, Avoidability +150, Chance to activate stance: 90% for 180secs"
       },
       "name": "Touch of the Wind",
-      "desc": "Become one with the wind through a divine blessing greatly increasing avoidability and the ability to resist the wind.   Cooldown: 5 min#"
+      "desc": "Become one with the wind through a divine blessing greatly increasing avoidability and the ability to resist the wind.   Cooldown: 5 min"
     },
     "13120012": {
       "1": {
@@ -18967,8 +18965,7 @@
       },
       "name": "Song of Heaven - Extra Strike",
       "desc": "Given a chance, allows Song of Heaven to deal an additional strike. Passively reduces Eagle Eye's cooldown by 60s.",
-      "note" : "Must be level 240 or above"
-
+      "note": "Must be level 240 or above"
     },
     "13120013": {
       "1": {
@@ -19093,8 +19090,7 @@
       },
       "name": "Touch of the Wind - Cooldown Cutter",
       "desc": "Reduces the cooldown of Touch of the Wind.",
-      "note" : "Must be level 225 or above"
-
+      "note": "Must be level 225 or above"
     },
     "13120014": {
       "1": {
@@ -19179,7 +19175,7 @@
       },
       "name": "Spiraling Vortex - Extra Strike",
       "desc": "Given a chance, allows Spiraling Vortex to deal an additional strike.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "13120011": {
       "1": {
@@ -19304,7 +19300,7 @@
       },
       "name": "Marksmanship",
       "desc": "Permanently gain DEX.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "13120022": {
       "1": {
@@ -19717,7 +19713,7 @@
       },
       "name": "Enchanted Quiver",
       "desc": "Attacks a monster using 200 arrows out of the currently equipped arrow. Allows an infinite number of arrow to be thrown for a short period of time. The bonus ATT of the arrow is not ignored like Soul Arrow.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     }
   },
   "132": {
@@ -21358,7 +21354,7 @@
         "desc": "Range of attack of the throw-type weapon: +200"
       },
       "name": "Keen Eyes",
-      "desc": "[Master Level: 8] Increases the range of attack for throwing weapons such as the Throwing Stars and Knives. Required Skill: #cAt least Level 3 on Nimble Body#"
+      "desc": "[Master Level: 8] Increases the range of attack for throwing weapons such as the Throwing Stars and Knives. Required Skill: At least Level 3 on Nimble Body"
     },
     "14001002": {
       "1": {
@@ -21446,7 +21442,7 @@
         "desc": "MP -5; hide for 200 sec."
       },
       "name": "Dark Sight",
-      "desc": "[Master Level: 10] Uses MP  to hide behind the shadows. With this skill activated, the character can neither attack nor be attacked. Required Skill:   At least Level 3 on Disorder #"
+      "desc": "[Master Level: 10] Uses MP  to hide behind the shadows. With this skill activated, the character can neither attack nor be attacked. Required Skill:   At least Level 3 on Disorder "
     },
     "14001004": {
       "1": {
@@ -21824,7 +21820,7 @@
         "desc": "50% success rate, critical damage 200%"
       },
       "name": "Critical Throw",
-      "desc": "[Master Level: 30] Enables Critical Attack with Throwing Stars at a pre-established success rate. Required Skill:   At least Level 3 on Claw Mastery #"
+      "desc": "[Master Level: 30] Enables Critical Attack with Throwing Stars at a pre-established success rate. Required Skill:   At least Level 3 on Claw Mastery "
     },
     "14101002": {
       "1": {
@@ -21908,7 +21904,7 @@
         "desc": "HP -10, MP -10; increase in claw's attack speed for 300 sec."
       },
       "name": "Claw Booster",
-      "desc": "[Master Level: 20] Use HP and MP to temporarily boost up the attack speed of the claw. It only applies when the character is equipped with a claw Throwing Stars. Required Skill:  #cAt least Level 5 on Claw Mastery#"
+      "desc": "[Master Level: 20] Use HP and MP to temporarily boost up the attack speed of the claw. It only applies when the character is equipped with a claw Throwing Stars. Required Skill:  At least Level 5 on Claw Mastery"
     },
     "14101003": {
       "1": {
@@ -22120,7 +22116,7 @@
         "desc": "When attacking in Dark Sight, damage 130%"
       },
       "name": "Vanish",
-      "desc": "[Master Level: 10] Inflicts additional damage on monsters when used while Dark Sight is activated. Dark Sight deactivates as soon as this skill is applied.  Required skill: #cDark Sight over level 10#"
+      "desc": "[Master Level: 10] Inflicts additional damage on monsters when used while Dark Sight is activated. Dark Sight deactivates as soon as this skill is applied.  Required skill: Dark Sight over level 10"
     },
     "14101006": {
       "1": {
@@ -23596,7 +23592,7 @@
         "desc": "MP -40, Weapon ATT +40, Avoidability +150 for 180secs"
       },
       "name": "Enveloping Darkness",
-      "desc": "Through the art of Ninjutsu, temporarily gain bonus damage and the ability to dodge incoming damage.   Cooldown: 5 min#"
+      "desc": "Through the art of Ninjutsu, temporarily gain bonus damage and the ability to dodge incoming damage.   Cooldown: 5 min"
     },
     "14121203": {
       "1": {
@@ -23760,7 +23756,7 @@
         "desc": "MP -36, Damage 1500%, Defense -90% for 30 seconds"
       },
       "name": "Soul Piercer",
-      "desc": "Throws a single enchanted star piercing the soul significantly reducing the enemy's defense. #cCooldown: 1min#"
+      "desc": "Throws a single enchanted star piercing the soul significantly reducing the enemy's defense. Cooldown: 1min"
     },
     "14120006": {
       "1": {
@@ -23885,7 +23881,7 @@
       },
       "name": "Dark Harmony",
       "desc": "Permanently gain LUK.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "14120007": {
       "1": {
@@ -24010,7 +24006,7 @@
       },
       "name": "Lifesteal",
       "desc": "Drains the energy of those struck by stars. Improves crit damage for all attacks.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "14120008": {
       "1": {
@@ -24095,8 +24091,7 @@
       },
       "name": "Enveloping Darkness - Cooldown Cutter",
       "desc": "Reduces the cooldown of Enveloping Darkness.",
-      "note" : "Must be level 225 or above"
-
+      "note": "Must be level 225 or above"
     },
     "14120010": {
       "1": {
@@ -24181,8 +24176,7 @@
       },
       "name": "Soul Piercer - Extra Strike",
       "desc": "Given a chance, allows Soul Piercer to deal an additional strike.",
-      "note" : "Must be level 240 or above"
-
+      "note": "Must be level 240 or above"
     },
     "14120009": {
       "1": {
@@ -24267,7 +24261,7 @@
       },
       "name": "Shadow Stars Mastery",
       "desc": "Increases the duration of Shadow Partner, Shadow Stars and reduces the required stars.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "14120022": {
       "1": {
@@ -24435,7 +24429,7 @@
         "desc": "For 40s, Lifesteal recovers 100% of HP. Ignores Weapon Cancel on monsters at a 100% rate."
       },
       "name": "Satanic",
-      "desc": "Immense power at the cost of your soul. Grants 100% Lifesteal and a chance to ignore Weapon Cancel effects on monsters. Dark Sight does not deactivate on attack. #cCooldown: 3min#"
+      "desc": "Immense power at the cost of your soul. Grants 100% Lifesteal and a chance to ignore Weapon Cancel effects on monsters. Dark Sight does not deactivate on attack. Cooldown: 3min"
     }
   },
   "1500": {
@@ -25159,7 +25153,7 @@
         "desc": "Damage 360%, attacks up to 3 monsters"
       },
       "name": "Energy Blast",
-      "desc": "[Master Level: 20] Blasts a ball of energy to attack multiple monsters at once. This skill can only be used when #cthe energy is full charged#. Required Skill: #cLevel 1 of Energy Charge#"
+      "desc": "[Master Level: 20] Blasts a ball of energy to attack multiple monsters at once. This skill can only be used when the energy is full charged. Required Skill: Level 1 of Energy Charge"
     },
     "15101002": {
       "1": {
@@ -25243,7 +25237,7 @@
         "desc": "HP -10, MP -10; Improves speed of Knuckle for 300 sec."
       },
       "name": "Knuckle Booster",
-      "desc": "[Master Level: 20] Uses parts of HP and MP to temporarily boost the speed of a Knuckle. This skill can only be triggered when a Knuckle is equipped.  Required Skill: #cLevel 5 or above on Knuckle Mastery"
+      "desc": "[Master Level: 20] Uses parts of HP and MP to temporarily boost the speed of a Knuckle. This skill can only be triggered when a Knuckle is equipped.  Required Skill: Level 5 or above on Knuckle Mastery"
     },
     "15101006": {
       "1": {
@@ -25497,7 +25491,7 @@
         "desc": "Damage 360%, 20% of the damage used to recover HP"
       },
       "name": "Energy Drain",
-      "desc": "[Master Level: 20] Uses energy to convert the lost HP of a monster into your own HP. This skill can only be used when #cthe energy is full charged#. Required Skill: #cLevel 1 of Energy Charge#"
+      "desc": "[Master Level: 20] Uses energy to convert the lost HP of a monster into your own HP. This skill can only be used when the energy is full charged. Required Skill: Level 1 of Energy Charge"
     },
     "15111004": {
       "1": {
@@ -25873,7 +25867,7 @@
         "desc": "HP -40, MP -40; boosts weapon attack speed by 2 levels for 300 sec."
       },
       "name": "Speed Infusion",
-      "desc": "Uses HP and MP to temporarily increase the attacking speed of a weapon. This can be combined with other boosters, and everyone in the party will have their attacking speed increased. Required Skill: #cLevel 20 of Knuckle Booster#"
+      "desc": "Uses HP and MP to temporarily increase the attacking speed of a weapon. This can be combined with other boosters, and everyone in the party will have their attacking speed increased. Required Skill: Level 20 of Knuckle Booster"
     }
   },
   "1512": {
@@ -27355,7 +27349,7 @@
         "desc": "MP -40, Energy charge 1.5x, Weapon ATT +70 for 180secs"
       },
       "name": "Static Focus",
-      "desc": "Releases inner power to charge energy faster and increase damage for a short time.   Cooldown: 5 min#"
+      "desc": "Releases inner power to charge energy faster and increase damage for a short time.   Cooldown: 5 min"
     }
   },
   "200": {
@@ -27469,7 +27463,7 @@
         "desc": "If Level UP, +20 more; if AP applied, +10 more on top on MaxMP"
       },
       "name": "Improved MaxMP Increase",
-      "desc": "Master Level: 10] This skill boosts up the amount of increase on MaxMP after each Level UP, or AP used on MaxMP. Required Skill: #cAt least Level 5 on Improving MP Recovery#"
+      "desc": "Master Level: 10] This skill boosts up the amount of increase on MaxMP after each Level UP, or AP used on MaxMP. Required Skill: At least Level 5 on Improving MP Recovery"
     },
     "2001002": {
       "1": {
@@ -27637,7 +27631,7 @@
         "desc": "MP -16; weapon def. +40 for 400 sec."
       },
       "name": "Magic Armor",
-      "desc": "[Master Level: 20] Temporarily boosts the weapon def. of the armor by blowing magic into it. Required Skill: #cAt least Level 3 on Magic Guard#"
+      "desc": "[Master Level: 20] Temporarily boosts the weapon def. of the armor by blowing magic into it. Required Skill: At least Level 3 on Magic Guard"
     },
     "2001004": {
       "1": {
@@ -27805,7 +27799,7 @@
         "desc": "MP -20, basic attack 40, mastery 60%"
       },
       "name": "Magic Claw",
-      "desc": "[Master Level: 20] Use MP to attack an enemy twice. Required Skill: #cAt least Level 1 on Energy Bolt#"
+      "desc": "[Master Level: 20] Use MP to attack an enemy twice. Required Skill: At least Level 1 on Energy Bolt"
     }
   },
   "2000": {
@@ -27839,7 +27833,7 @@
         "desc": "MP -15; Recover HP +72 in 30 sec."
       },
       "name": "Recovery",
-      "desc": "[Master Level: 3] Enables the user to recover HP constantly for 30 sec.  #cTerms between skills: 2 min.#"
+      "desc": "[Master Level: 3] Enables the user to recover HP constantly for 30 sec.  Terms between skills: 2 min."
     },
     "20001002": {
       "1": {
@@ -27855,7 +27849,7 @@
         "desc": "MP -10; Speed +20 in 12 sec"
       },
       "name": "Agile Body",
-      "desc": "[Master Level: 3] Explosive speed for an instant.  #cTakes about 1 min. until the next call.#"
+      "desc": "[Master Level: 3] Explosive speed for an instant.  Takes about 1 min. until the next call."
     },
     "20001003": {
       "name": "Legendary Spirit",
@@ -27875,7 +27869,7 @@
         "desc": "MP -30 Weapon attack +4%, Magic attack +4%  for 40Minutes"
       },
       "name": "Echo of Hero",
-      "desc": "[Master Level: 1]  Increase weapon attack and magic attack on all players around.  #cTerms between skills: 2hours#"
+      "desc": "[Master Level: 1]  Increase weapon attack and magic attack on all players around.  Terms between skills: 2hours"
     },
     "20001006": {
       "name": "Jump Down",
@@ -27971,7 +27965,7 @@
         "desc": "MP -10; Weapon and Magic DEF +10, Speed +120, Jump +120"
       },
       "name": "Yeti Rider",
-      "desc": "[Master Level: 1] Allows one to ride on a Yeti. #cAvailable until: 7/9/2009 at 00:00#"
+      "desc": "[Master Level: 1] Allows one to ride on a Yeti. Available until: 7/9/2009 at 00:00"
     },
     "20001020": {
       "name": "Rage of Pharaoh",
@@ -28127,23 +28121,23 @@
         "desc": "Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"
       },
       "name": "Spaceship",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "20001047": {
       "1": {
         "mp": "10",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
       },
       "name": "Space Dash",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "20001048": {
       "1": {
         "time": "1",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
       },
       "name": "Space Beam",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "20001054": {
       "1": {
@@ -28490,7 +28484,7 @@
         "desc": "MP -30, Weapon damage +10%, Total Magic +10% for 40 minutes"
       },
       "name": "Advanced Echo of Hero",
-      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. #cTerms between skills: 2hours#"
+      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. Terms between skills: 2hours"
     }
   },
   "2001": {
@@ -28524,7 +28518,7 @@
         "desc": "MP -15, recovers 72 HP over 30 sec. "
       },
       "name": "Recover",
-      "desc": "[Master Level: 3] Enables the user to recover a certain amount of HP over 30 sec.  #cCooldown: 10 min.#"
+      "desc": "[Master Level: 3] Enables the user to recover a certain amount of HP over 30 sec.  Cooldown: 10 min."
     },
     "20011002": {
       "1": {
@@ -28540,7 +28534,7 @@
         "desc": "MP -10, Speed +20 for 12 sec."
       },
       "name": "Nimble Feet",
-      "desc": "[Master Level: 3] Enables the character to move around quickly for a short amount of time.  #cCooldown: 1 min.#"
+      "desc": "[Master Level: 3] Enables the character to move around quickly for a short amount of time.  Cooldown: 1 min."
     },
     "20011003": {
       "name": "Legendary Spirit",
@@ -28560,7 +28554,7 @@
         "desc": "MP -30, Weapon and Magic Attack +4% for 40 min"
       },
       "name": "Echo of Hero",
-      "desc": "[Master Level: 1] Increases the Weapon and Magic Attack of all nearby users.  #cCooldown: 2 hrs#"
+      "desc": "[Master Level: 1] Increases the Weapon and Magic Attack of all nearby users.  Cooldown: 2 hrs"
     },
     "20011007": {
       "1": {
@@ -28872,23 +28866,23 @@
         "desc": "Consumes 10 MP. Weapon and Magic Defense +10, Speed 150, Jump 120"
       },
       "name": "Spaceship",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "20011047": {
       "1": {
         "mp": "10",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
       },
       "name": "Space Dash",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "20011048": {
       "1": {
         "time": "1",
-        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+        "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
       },
       "name": "Space Beam",
-      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. #cAvailable until 06-15-2010 at midnight# "
+      "desc": "[Master Level: 1] Increase your movement and jump abilities by pressing the right/left direction key twice. Available until 06-15-2010 at midnight "
     },
     "20011054": {
       "1": {
@@ -29106,7 +29100,7 @@
         "desc": "MP -30, Weapon damage +10%, Total Magic +10% for 40 minutes"
       },
       "name": "Advanced Echo of Hero",
-      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. #cTerms between skills: 2hours#"
+      "desc": "Increase weapon damage and total magic on all players around. Does not stack with Echo of Hero. Terms between skills: 2hours"
     }
   },
   "210": {
@@ -29360,7 +29354,7 @@
         "desc": "MP -16; enemy's speed -40 for 40 sec."
       },
       "name": "Slow",
-      "desc": "[Master Level: 20] Temporarily slows down the movement of up to 6 monsters. Cannot be used on the same monsters more than twice in a row. Required Skill: #cAt least Level 5 on Teleport#"
+      "desc": "[Master Level: 20] Temporarily slows down the movement of up to 6 monsters. Cannot be used on the same monsters more than twice in a row. Required Skill: At least Level 5 on Teleport"
     },
     "2101005": {
       "1": {
@@ -29692,7 +29686,7 @@
         "desc": "MP -20; party's magic attack +40 for 300 sec."
       },
       "name": "Meditation",
-      "desc": "[Master Level: 20] Meditate for a bit to temporarily boost up the magic attack of party members around the area. Required Skill: #cAt least Level 3 on MP Eater#"
+      "desc": "[Master Level: 20] Meditate for a bit to temporarily boost up the magic attack of party members around the area. Required Skill: At least Level 3 on MP Eater"
     }
   },
   "2100": {
@@ -29822,7 +29816,7 @@
         "desc": "For Attack +1, Weapon DEF +5, Magic DEF +5,  10 extra points"
       },
       "name": "Combo Ability",
-      "desc": "[Master Level: 10] After every 10 combo counts, your stats increase up to a maximum of ten times. Required Skill: #cLevel 10 on Double Swing#"
+      "desc": "[Master Level: 10] After every 10 combo counts, your stats increase up to a maximum of ten times. Required Skill: Level 10 on Double Swing"
     },
     "21001001": {
       "1": {
@@ -29886,7 +29880,7 @@
         "desc": "MP -5, cover small distance"
       },
       "name": "Combat Step",
-      "desc": "[Master Level: 15] Quickly tap the direction arrows twice to quickly cover a short distance. Required Skill: #cDouble Swing Level 5# [How-to: #cArrow Key: Right + Right#]"
+      "desc": "[Master Level: 15] Quickly tap the direction arrows twice to quickly cover a short distance. Required Skill: Double Swing Level 5 [How-to: Arrow Key: Right + Right]"
     },
     "21001003": {
       "1": {
@@ -29970,7 +29964,7 @@
         "desc": "HP -10, MP -10; increase in Polearm for 300 sec."
       },
       "name": "Polearm Booster",
-      "desc": "[Master Level: 20]  Uses HP and MP to temporarily boost up the attacking speed of the equipped polearm. It only applies when either a one-handed or a two-handed polearm is in hand. Required Skill:  #cAt least Level 5 on Polearm Mastery#  Required Skill: #cCombat Step Level 5#"
+      "desc": "[Master Level: 20]  Uses HP and MP to temporarily boost up the attacking speed of the equipped polearm. It only applies when either a one-handed or a two-handed polearm is in hand. Required Skill:  At least Level 5 on Polearm Mastery  Required Skill: Combat Step Level 5"
     }
   },
   "211": {
@@ -30264,7 +30258,7 @@
         "desc": "Use 30 MP, 95% chance of sealing up for 20 sec."
       },
       "name": "Seal",
-      "desc": "[Master Level: 20] Temporarily seals up all surrounding monsters. Once sealed, monsters can't use skills. Does not work against boss-level monsters. Required Skill: #cAt least Level 3 on Element Amplification#"
+      "desc": "[Master Level: 20] Temporarily seals up all surrounding monsters. Once sealed, monsters can't use skills. Does not work against boss-level monsters. Required Skill: At least Level 3 on Element Amplification"
     },
     "2110001": {
       "1": {
@@ -30636,7 +30630,7 @@
         "desc": "Use HP 30, MP 25 to boost up the magic attacking speed by 2 levels for 300 sec."
       },
       "name": "Spell Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to increase the attacking speed for spells. Required Skill: #cAt least Level 3 on Element Amplification#"
+      "desc": "[Master Level: 20] Uses HP and MP to increase the attacking speed for spells. Required Skill: At least Level 3 on Element Amplification"
     },
     "2111006": {
       "1": {
@@ -30846,7 +30840,7 @@
         "desc": "MP -7, Damage 250%"
       },
       "name": "Triple Swing",
-      "desc": "[Master Level: 20] Press the attack key 3 times in a row to privde triple-hit combos on up to 12 enemies. Required Skill: #cDouble Swing 20#"
+      "desc": "[Master Level: 20] Press the attack key 3 times in a row to privde triple-hit combos on up to 12 enemies. Required Skill: Double Swing 20"
     },
     "21100000": {
       "1": {
@@ -30930,7 +30924,7 @@
         "desc": "Mastery of Polearm +60%, Accuracy +20"
       },
       "name": "Polearm Mastery",
-      "desc": "[Master Level: 20] Increases the mastery of pole arms and accuracy. It only applies when a pole arm is in hand. This skill only gets triggered when the owner is carrying the secuity stuff. Required Skill: #cTriple Swing Level 3#"
+      "desc": "[Master Level: 20] Increases the mastery of pole arms and accuracy. It only applies when a pole arm is in hand. This skill only gets triggered when the owner is carrying the secuity stuff. Required Skill: Triple Swing Level 3"
     },
     "21100002": {
       "1": {
@@ -31054,7 +31048,7 @@
         "desc": "MP -20, Damage 90%, attacks up to 12 monsters at once"
       },
       "name": "Final Charge",
-      "desc": "[Master Level: 30] Just pushes the enemy forward. Only available right after #cTriple Swing#. Required Skill: #cTriple Swing Level 20 and above# [Command: triple attack, #cArrow Key: Right + attack#]"
+      "desc": "[Master Level: 30] Just pushes the enemy forward. Only available right after Triple Swing. Required Skill: Triple Swing Level 20 and above [Command: triple attack, Arrow Key: Right + attack]"
     },
     "21100004": {
       "1": {
@@ -31138,7 +31132,7 @@
         "desc": "Damage 700%, attacks up to 10 monsters at once"
       },
       "name": "Combo Smash",
-      "desc": "[Master Level: 20] Achieves excellent amound of danger at the booth. Only available when the #cCombo Count reaches 30 or above#. Required Skill: #cPolearm combo 1# [Command: #cArrow Key: Down + Right + attack key#]"
+      "desc": "[Master Level: 20] Achieves excellent amound of danger at the booth. Only available when the Combo Count reaches 30 or above. Required Skill: Polearm combo 1 [Command: Arrow Key: Down + Right + attack key]"
     },
     "21100005": {
       "1": {
@@ -31222,7 +31216,7 @@
         "desc": "For 120 sec, will recover 5% of HP Damage dished out as HP"
       },
       "name": "Combo Drain",
-      "desc": "[Master Level: 20] A buff that allows one to recover a portion of damage dished out by attacking back as HP. #cCombo Count must reach 30# and can only be used then. Required Skill: #cCombo Ability Level 1# [Command: #cArrow Key: Down + Down + attack#]"
+      "desc": "[Master Level: 20] A buff that allows one to recover a portion of damage dished out by attacking back as HP. Combo Count must reach 30 and can only be used then. Required Skill: Combo Ability Level 1 [Command: Arrow Key: Down + Down + attack]"
     },
     "21101003": {
       "1": {
@@ -31392,7 +31386,7 @@
         "desc": "Double Swing MP -12, 2nd attack damage 110%, Triple Swing MP -14, Damage 350%"
       },
       "name": "Full Swing",
-      "desc": "[Master Level: 20] Increases the damage rate of Double Swing and Triple Swing.  Required Skill: #cTriple Swing Level 20#"
+      "desc": "[Master Level: 20] Increases the damage rate of Double Swing and Triple Swing.  Required Skill: Triple Swing Level 20"
     },
     "21110000": {
       "1": {
@@ -31476,7 +31470,7 @@
         "desc": "Critical Damage 10%, success rate 6%, max 10 additional combos"
       },
       "name": "Combo Critical",
-      "desc": "[Master Level: 20] Every time the combo count reaches 10, that's when the critical rate and the damage increases. Required Skill: #cCombo Ability Level 10#"
+      "desc": "[Master Level: 20] Every time the combo count reaches 10, that's when the critical rate and the damage increases. Required Skill: Combo Ability Level 10"
     },
     "21110003": {
       "1": {
@@ -31600,7 +31594,7 @@
         "desc": "MP -20, Damage 110%, if monster gets hit in the air, damage +100%"
       },
       "name": "Final Cross",
-      "desc": "[Master Level: 30] Tosses up 12 monsters in the air. The monsters that are in the air will be vulnerable to attacks, therefore receiving more damage than on the ground. Can only triggered right after Triple Swing. Required Skill: #cTriple Swing Level 20# [Command: #cArrow Key: Up + attack key#]"
+      "desc": "[Master Level: 30] Tosses up 12 monsters in the air. The monsters that are in the air will be vulnerable to attacks, therefore receiving more damage than on the ground. Can only triggered right after Triple Swing. Required Skill: Triple Swing Level 20 [Command: Arrow Key: Up + attack key]"
     },
     "21110006": {
       "1": {
@@ -31684,7 +31678,7 @@
         "desc": "MP -24; Damage 120%, 95% success rate, flies up to 12 monsters about 130 far."
       },
       "name": "Rolling Spin",
-      "desc": "[Master Level: 20] Causes a strong wind which flies out monsters left and right. [command: #cArrow Key: Up + Up +  Attack key#]"
+      "desc": "[Master Level: 20] Causes a strong wind which flies out monsters left and right. [command: Arrow Key: Up + Up +  Attack key]"
     },
     "21110004": {
       "1": {
@@ -31808,88 +31802,88 @@
         "desc": "Damage 800%, attacks up to 10 monsters at once"
       },
       "name": "Combo Fenrir",
-      "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+      "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
     },
     "21110007": {
       "1": {
         "damage": "72",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "2": {
         "damage": "74",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "3": {
         "damage": "76",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "4": {
         "damage": "78",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "5": {
         "damage": "80",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "6": {
         "damage": "82",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "7": {
         "damage": "84",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "8": {
         "damage": "86",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "9": {
         "damage": "88",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "10": {
         "damage": "90",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "11": {
         "damage": "92",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "12": {
         "damage": "94",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "13": {
         "damage": "96",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "14": {
         "damage": "98",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "15": {
         "damage": "100",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "16": {
         "damage": "102",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "17": {
         "damage": "104",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "18": {
         "damage": "106",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "19": {
         "damage": "108",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "20": {
         "damage": "110",
-        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the #cCombo Count reaches at least 100.# Required Skill: #cCombo Smash Level 10# [Command: #cArrow Key: Down + Right + attack key#]"
+        "desc": "[Master Level: 30] Shoots a wave of concentrated energy, mixing with the spirit of wolves. Can only be used when the Combo Count reaches at least 100. Required Skill: Combo Smash Level 10 [Command: Arrow Key: Down + Right + attack key]"
       },
       "name": "(hidden) Full Swing -Double Swing",
       "desc": "[Master Level: 20]"
@@ -32310,7 +32304,7 @@
         "desc": "Double Swing MP -18, Damage 190% with 2 hits, Triple Swing MP -20, Damage 260% with 2 hits"
       },
       "name": "Over Swing",
-      "desc": "Expands the damage caused by Double Swing and Triple Swing to the extreme. Required Skill: #cFull Swing Level 20#"
+      "desc": "Expands the damage caused by Double Swing and Triple Swing to the extreme. Required Skill: Full Swing Level 20"
     },
     "21120001": {
       "1": {
@@ -32474,7 +32468,7 @@
         "desc": "Mastery of Polearm-related weapons +90%, Weapon Att +20"
       },
       "name": "High Mastery",
-      "desc": "Improves the overall mastery of Polearm-related weapons and attack. Required Skill: #cPolearm Mastery Level 20#"
+      "desc": "Improves the overall mastery of Polearm-related weapons and attack. Required Skill: Polearm Mastery Level 20"
     },
     "21120005": {
       "1": {
@@ -32638,7 +32632,7 @@
         "desc": "MP -30, Damage 590%, +1 attack count"
       },
       "name": "Final Blow",
-      "desc": "Swings Polearm widely to incur significant damage to up to 12 monsters at once. Only works right after triggering #cTriple Swing#. Required Skill: #cTriple Swing Level 20# [Command: Triple Swing + #cArrow Key: Down + attack key#]"
+      "desc": "Swings Polearm widely to incur significant damage to up to 12 monsters at once. Only works right after triggering Triple Swing. Required Skill: Triple Swing Level 20 [Command: Triple Swing + Arrow Key: Down + attack key]"
     },
     "21121003": {
       "1": {
@@ -33010,7 +33004,7 @@
         "desc": "1500% in damage against boss monsters, with ice available for 40 sec"
       },
       "name": "Combo Tempest",
-      "desc": "Creates an ice that is so deadly that even a slight collision would kill the monster, while incurring significant damage to boss monsters as well. #cOnly available when the combo count reaches 400 or more#. Required Skill: #cCombo Fenrir Level 10# [command: #cArrow Key: Down + Right + attck\\#]"
+      "desc": "Creates an ice that is so deadly that even a slight collision would kill the monster, while incurring significant damage to boss monsters as well. Only available when the combo count reaches 400 or more. Required Skill: Combo Fenrir Level 10 [command: Arrow Key: Down + Right + attck\\]"
     },
     "21120007": {
       "1": {
@@ -33134,7 +33128,7 @@
         "desc": "Available for 240 sec, absorbs 20% of the damage."
       },
       "name": "Combo Barrier",
-      "desc": "A buff that decreases the amount of damage received over a set time. A welcome skill in party formats a la cleric. Only available once the #ccombo count reaches 200#. Required Skill: #cCombo Drain Level 10# [Command: #cArrow key: Down + Down + attack#]"
+      "desc": "A buff that decreases the amount of damage received over a set time. A welcome skill in party formats a la cleric. Only available once the combo count reaches 200. Required Skill: Combo Drain Level 10 [Command: Arrow key: Down + Down + attack]"
     },
     "21121008": {
       "1": {
@@ -34558,7 +34552,7 @@
       },
       "name": "Arcane Overdrive",
       "desc": "Permanently increases intelligence.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "2120001": {
       "1": {
@@ -34683,7 +34677,7 @@
       },
       "name": "Infinity - Cooldown Cutter",
       "desc": "Reduces the cooldown of Infinity.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2120002": {
       "1": {
@@ -34768,7 +34762,7 @@
       },
       "name": "Teleport Mastery",
       "desc": "Increases the travel distance of Teleport.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2120003": {
       "1": {
@@ -34853,7 +34847,7 @@
       },
       "name": "Burning Magic",
       "desc": "Given a chance, allow Paralyze and Fire Demon to deal an additional strike.",
-      "note" : "Must be level 240 or above"
+      "note": "Must be level 240 or above"
     },
     "2120004": {
       "1": {
@@ -34978,7 +34972,7 @@
       },
       "name": "Element Amplification Boost",
       "desc": "Improves the bonus magic damage provided by Element Amplification.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2121003": {
       "1": {
@@ -35350,7 +35344,7 @@
         "desc": "MP -100, Basic attack 270, for 160secs"
       },
       "name": "Elquines",
-      "desc": "Calls upon the Elquines familiar, who is ice-based. Attacks up to 3 monsters. Required skill: #cFire Demon level 5 and above#"
+      "desc": "Calls upon the Elquines familiar, who is ice-based. Attacks up to 3 monsters. Required skill: Fire Demon level 5 and above"
     },
     "2121006": {
       "1": {
@@ -35638,7 +35632,7 @@
         "desc": "MP -3000, for 40s, Fire-based attacks do x1.5 damage; ignores Magic Cancel effects on monsters at a 90% rate."
       },
       "name": "Inferno Aura",
-      "desc": "Channel fire chakras to burst into flame, allowing you to ignore Magic Cancel effects on monsters. Fire-based attacks temporarily deal x1.5 more damage. #cCooldown: 3min#"
+      "desc": "Channel fire chakras to burst into flame, allowing you to ignore Magic Cancel effects on monsters. Fire-based attacks temporarily deal x1.5 more damage. Cooldown: 3min"
     }
   },
   "220": {
@@ -35892,7 +35886,7 @@
         "desc": "MP -16; enemy's moving speed -40 for 40 sec."
       },
       "name": "Slow",
-      "desc": "[Master Level: 20] Temporarily slows down the movement of up to 6 monsters. Cannot be used on the same monsters more than twice in a row. Required Skill: #cAt least Level 5 on Teleport#"
+      "desc": "[Master Level: 20] Temporarily slows down the movement of up to 6 monsters. Cannot be used on the same monsters more than twice in a row. Required Skill: At least Level 5 on Teleport"
     },
     "2201001": {
       "1": {
@@ -35976,7 +35970,7 @@
         "desc": "MP -20; party's magic attack +40 for 300 sec."
       },
       "name": "Meditation",
-      "desc": "[Master Level: 20] Meditate for a bit to temporarily boost up the magic attack of party members around the area. Required Skill: #cAt least Level 3 on MP Eater#"
+      "desc": "[Master Level: 20] Meditate for a bit to temporarily boost up the magic attack of party members around the area. Required Skill: At least Level 3 on MP Eater"
     },
     "2201004": {
       "1": {
@@ -36334,7 +36328,7 @@
         "desc": "Magic Attack +20"
       },
       "name": "Dragon Soul",
-      "desc": "[Master Level: 20] Enhances MP by strengthening the dragon's spirit. Required skill: #cMagic Missile Lv. 10 or above.#"
+      "desc": "[Master Level: 20] Enhances MP by strengthening the dragon's spirit. Required skill: Magic Missile Lv. 10 or above."
     }
   },
   "221": {
@@ -36792,7 +36786,7 @@
         "desc": "Use 30 MP, 95% chance of sealing up for 20 sec."
       },
       "name": "Seal",
-      "desc": "[Master Level: 20] Seals up the enemies around you for a certain amount of time. Once sealed up, the monsters can't use attacking skills, but the skill does not work on boss monsters. Required Skill: #cAt least Level 3 on Element Amplification#"
+      "desc": "[Master Level: 20] Seals up the enemies around you for a certain amount of time. Once sealed up, the monsters can't use attacking skills, but the skill does not work on boss monsters. Required Skill: At least Level 3 on Element Amplification"
     },
     "2211002": {
       "1": {
@@ -37000,7 +36994,7 @@
         "desc": "Use HP 30, MP 25 to boost up the magic attacking speed by 2 levels for 300 sec."
       },
       "name": "Spell Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to increase the attacking speed for spells. Required Skill: #cAt least Level 3 on Element Amplification#"
+      "desc": "[Master Level: 20] Uses HP and MP to increase the attacking speed for spells. Required Skill: At least Level 3 on Element Amplification"
     },
     "2211006": {
       "1": {
@@ -39406,7 +39400,7 @@
         "desc": "MP -120, Weapon and Magic Defense +200. Gain 80% Stance and Magic Attack +80 for 120s."
       },
       "name": "Blessing of the Onyx",
-      "desc": "Temporarily boost your defenses and Magic Attack. Grants a chance to resist knock-back effects. #cCooldown: 150s#"
+      "desc": "Temporarily boost your defenses and Magic Attack. Grants a chance to resist knock-back effects. Cooldown: 150s"
     },
     "22181001": {
       "1": {
@@ -39654,7 +39648,7 @@
         "desc": "MP -100, avoid a fatal attack for the next 300 sec, Affects 2 party members."
       },
       "name": "Soul Stone",
-      "desc": "Casts a buff that holds Souls on random members of the party. A character whose Soul is being held will consume the buff and be healed to full HP upon taking a fatal attack. #cCooldown: 10min#"
+      "desc": "Casts a buff that holds Souls on random members of the party. A character whose Soul is being held will consume the buff and be healed to full HP upon taking a fatal attack. Cooldown: 10min"
     },
     "22180000": {
       "1": {
@@ -39678,7 +39672,8 @@
         "desc": "Basic Attack +15"
       },
       "name": "Illusion - Reinforce",
-      "desc": "Increases the basic attack damage of Illusion."
+      "desc": "Increases the basic attack damage of Illusion.",
+      "note": "Must be level 240 or above"
     },
     "22180001": {
       "1": {
@@ -39722,7 +39717,8 @@
         "desc": "Basic Attack +50"
       },
       "name": "Infernal Blaze",
-      "desc": "Increases the basic attack damage of Blaze and Flame Wheel."
+      "desc": "Increases the basic attack damage of Blaze and Flame Wheel.",
+      "note": "Must be level 225 or above"
     },
     "22180002": {
       "1": {
@@ -39807,7 +39803,7 @@
       },
       "name": "Teleport Mastery",
       "desc": "Increases the travel distance of Teleport.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "22181004": {
       "1": {
@@ -39891,7 +39887,8 @@
         "desc": "MP -1000; Avoidability +180 for 300 sec."
       },
       "name": "Onyx Shroud",
-      "desc": "Temporarily increases avoidability for party members. Passively grants a 50% boost to Magic Amplification."
+      "desc": "Temporarily increases avoidability for party members. Passively grants a 50% boost to Magic Amplification.",
+      "note":"Must be level 210 or above"
     },
     "22180003": {
       "1": {
@@ -39975,7 +39972,8 @@
         "desc": "Dragon Fury additional Magic ATT +100."
       },
       "name": "Dragon Link",
-      "desc": "Enhances the effects of Dragon Fury, granting additional Magic Attack when activated."
+      "desc": "Enhances the effects of Dragon Fury, granting additional Magic Attack when activated.",
+      "note": "Must be level 225 or above"
     },
     "22181002": {
       "1": {
@@ -40099,7 +40097,7 @@
         "desc": "MP -3800, Basic Attack: 750, Mastery: 60%. All attacks do Dark elemental damage for 120s."
       },
       "name": "Dark Fog",
-      "desc": "Gathers all the dark elements in the area to create a dark, chilly fog that attacks up to 15 enemies. Temporarily imbues all attacks with the Dark element. #cCooldown: 7 seconds#"
+      "desc": "Gathers all the dark elements in the area to create a dark, chilly fog that attacks up to 15 enemies. Temporarily imbues all attacks with the Dark element. Cooldown: 7 seconds"
     }
   },
   "222": {
@@ -40602,7 +40600,7 @@
       },
       "name": "Arcane Overdrive",
       "desc": "Permanently increases intelligence.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "2220001": {
       "1": {
@@ -40727,7 +40725,7 @@
       },
       "name": "Infinity - Cooldown Cutter",
       "desc": "Reduces the cooldown of Infinity.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2220002": {
       "1": {
@@ -40812,7 +40810,7 @@
       },
       "name": "Teleport Mastery",
       "desc": "Increases the travel distance of Teleport.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2220004": {
       "1": {
@@ -40937,7 +40935,7 @@
       },
       "name": "Element Amplification Boost",
       "desc": "Improves the bonus magic damage provided by Element Amplification.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2221002": {
       "1": {
@@ -41434,7 +41432,7 @@
       },
       "name": "Storm Magic",
       "desc": "Given a chance, allow Chain Lightning and Ice Demon to deal an additional strike.",
-      "note" : "Must be level 240 or above"
+      "note": "Must be level 240 or above"
     },
     "2221001": {
       "1": {
@@ -41558,7 +41556,7 @@
         "desc": "MP -3000, for 40s, Ice-based attacks do x1.5 damage; ignores Magic Cancel effects on monsters at a 90% rate."
       },
       "name": "Absolute Zero Aura",
-      "desc": "Envelops you in an aura of cold, allowing you to ignore Magic Cancel effects on monsters. Ice-based attacks temporarily deal x1.5 more damage. #cCooldown: 3min#"
+      "desc": "Envelops you in an aura of cold, allowing you to ignore Magic Cancel effects on monsters. Ice-based attacks temporarily deal x1.5 more damage. Cooldown: 3min"
     },
     "2221006": {
       "1": {
@@ -42100,7 +42098,7 @@
         "desc": "MP 30; weapon damage -30% for 300 seconds"
       },
       "name": "Invincible",
-      "desc": "[Master Level: 20] Temporarily decreases the weapon damage received. It has no effect, however, on the magic attack. Required Skill: #cAt least Level 5 on Heal#"
+      "desc": "[Master Level: 20] Temporarily decreases the weapon damage received. It has no effect, however, on the magic attack. Required Skill: At least Level 5 on Heal"
     },
     "2301004": {
       "1": {
@@ -42184,7 +42182,7 @@
         "desc": "MP -24; +20 on accuracy, avoidability, weapon and magic def. for 300 sec."
       },
       "name": "Bless",
-      "desc": "[Master Level: 20] Temporarily increases the weapon def., magic def., accuracy, and avoidability of all party members around the area. This cannot be combined with a skill or a potion. Required Skill: #cAt least Level 5 on Invincible#"
+      "desc": "[Master Level: 20] Temporarily increases the weapon def., magic def., accuracy, and avoidability of all party members around the area. This cannot be combined with a skill or a potion. Required Skill: At least Level 5 on Invincible"
     },
     "2301005": {
       "1": {
@@ -42522,7 +42520,7 @@
         "desc": "MP -33, use 1 Magic Rock, Portal works for 180 sec."
       },
       "name": "Mystic Door",
-      "desc": "[Master Level: 20] Creates a portal that heads to the nearest town. All party members can use it multiple times until the portal disappears. Press #cUp# to move. Required Skill: #cAt least Level 3 on Dispel#"
+      "desc": "[Master Level: 20] Creates a portal that heads to the nearest town. All party members can use it multiple times until the portal disappears. Press Up to move. Required Skill: At least Level 3 on Dispel"
     },
     "2311005": {
       "1": {
@@ -42894,7 +42892,7 @@
         "desc": "MP -80; all party members gain up to 150% EXP for 300 sec"
       },
       "name": "Holy Symbol",
-      "desc": "[Master Level: 30] Temporarily allows all party members nearby to gain additional EXP while hunting. It becomes fully effective only when there are at least 4 party members around. Required Skill: #cAt least Level 3 on Dispel#"
+      "desc": "[Master Level: 30] Temporarily allows all party members nearby to gain additional EXP while hunting. It becomes fully effective only when there are at least 4 party members around. Required Skill: At least Level 3 on Dispel"
     },
     "2311004": {
       "1": {
@@ -43908,7 +43906,7 @@
         "desc": "MP -40, for 50secs."
       },
       "name": "Holy Shield",
-      "desc": "Temporarily protects all party members from abnormal conditions. #cCooldown: 2 min#"
+      "desc": "Temporarily protects all party members from abnormal conditions. Cooldown: 2 min"
     },
     "2320000": {
       "1": {
@@ -43933,7 +43931,7 @@
       },
       "name": "Arcane Overdrive",
       "desc": "Permanently increases intelligence.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "2320001": {
       "1": {
@@ -44058,7 +44056,7 @@
       },
       "name": "Infinity - Cooldown Cutter",
       "desc": "Reduces the cooldown of Infinity.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2320002": {
       "1": {
@@ -44143,7 +44141,7 @@
       },
       "name": "Teleport Mastery",
       "desc": "Increases the travel distance of Teleport.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2320003": {
       "1": {
@@ -44268,7 +44266,7 @@
       },
       "name": "Angel Ray - Extra Strike",
       "desc": "Given a chance, allows Angel Ray to deal an additional strike.",
-      "note" : "Must be level 240 or above"
+      "note": "Must be level 240 or above"
     },
     "2321010": {
       "1": {
@@ -44313,7 +44311,7 @@
       },
       "name": "Heaven's Door",
       "desc": "If you use this skill when dead, you instantly resurrect yourself and grant Holy Shield to nearby party members.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "2321002": {
       "1": {
@@ -44561,7 +44559,7 @@
         "desc": "MP -100, Basic attack 230, for 160secs"
       },
       "name": "Bahamut",
-      "desc": "Temporarily summons Bahamut, a holy dragon. Attacks up to 3 monsters.. Required skill: #cSummon Dragon level 15 and above#"
+      "desc": "Temporarily summons Bahamut, a holy dragon. Attacks up to 3 monsters.. Required skill: Summon Dragon level 15 and above"
     },
     "2321006": {
       "1": {
@@ -44879,7 +44877,7 @@
         "desc": "Range of attack for bows and crossbows: +120"
       },
       "name": "The Eye of Amazon",
-      "desc": "[Master Level: 8] Increases the range of attack for bows and crossbows. Required Skill: #cAt least Level 3 on The Blessing of Amazon#"
+      "desc": "[Master Level: 8] Increases the range of attack for bows and crossbows. Required Skill: At least Level 3 on The Blessing of Amazon"
     },
     "3001004": {
       "1": {
@@ -45047,7 +45045,7 @@
         "desc": "MP -16; damage 130%"
       },
       "name": "Double Shot",
-      "desc": "[Master Level: 20] Fires two arrows at once to attack an enemy twice. Required Skill: #cAt least Level 1 on Arrow Blow#"
+      "desc": "[Master Level: 20] Fires two arrows at once to attack an enemy twice. Required Skill: At least Level 1 on Arrow Blow"
     },
     "3001003": {
       "1": {
@@ -45561,7 +45559,7 @@
         "desc": "HP -10, MP -10; increase in bow attacking speed for 300 sec."
       },
       "name": "Bow Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the bow. It only works with a bow in hand. Required Skill: #cAt least Level 5 on Bow Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the bow. It only works with a bow in hand. Required Skill: At least Level 5 on Bow Mastery"
     },
     "3101004": {
       "1": {
@@ -45645,7 +45643,7 @@
         "desc": "MP -20, attack for 600 sec without using up an arrow."
       },
       "name": "Soul Arrow: Bow",
-      "desc": "[Master Level: 20] Temporarily allows the character to fire bow arrows without using up the arrows. Ignores bonus damage from arrows. Required Skill: #cAt least Level 5 on Bow Booster#"
+      "desc": "[Master Level: 20] Temporarily allows the character to fire bow arrows without using up the arrows. Ignores bonus damage from arrows. Required Skill: At least Level 5 on Bow Booster"
     },
     "3101003": {
       "1": {
@@ -45897,7 +45895,7 @@
         "desc": "60% success rate, final attack damage 250%"
       },
       "name": "Final Attack: Bow",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a bow. Required Skill: #cAt least Level 3 on Bow Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a bow. Required Skill: At least Level 3 on Bow Mastery"
     }
   },
   "311": {
@@ -46231,7 +46229,7 @@
         "desc": "MP -80, use 1 Summoning Rock; summons a hawk for 180 sec; attack 100; 99% chance of stunning"
       },
       "name": "Silver Hawk",
-      "desc": "[Master Level: 30] Summons a silver hawk. The hawk will be hovering around you, attacking monsters nearby. Required Skill: #cAt least Level 5 on Puppet#"
+      "desc": "[Master Level: 30] Summons a silver hawk. The hawk will be hovering around you, attacking monsters nearby. Required Skill: At least Level 5 on Puppet"
     },
     "3111006": {
       "1": {
@@ -46647,7 +46645,7 @@
         "desc": "MP -28, Damage 200%"
       },
       "name": "Arrow Rain",
-      "desc": "[Master Level: 30] Fires a number of arrows into the sky, attacking up to 6 monsters at once on its way down. Only available when equipped with a bow. Required Skill: #cAt least Level 5 on Mortal Blow#"
+      "desc": "[Master Level: 30] Fires a number of arrows into the sky, attacking up to 6 monsters at once on its way down. Only available when equipped with a bow. Required Skill: At least Level 5 on Mortal Blow"
     }
   },
   "312": {
@@ -47586,8 +47584,7 @@
       },
       "name": "Hurricane Fury",
       "desc": "Given a chance, allows Hurricane to deal an additional strike.",
-      "note" : "Must be level 225 or above"
-
+      "note": "Must be level 225 or above"
     },
     "3120009": {
       "1": {
@@ -47672,8 +47669,7 @@
       },
       "name": "Concentrate - Cooldown Cutter",
       "desc": "Reduces the cooldown of Concentrate.",
-      "note" : "Must be level 240 or above"
-
+      "note": "Must be level 240 or above"
     },
     "3120010": {
       "1": {
@@ -47798,7 +47794,7 @@
       },
       "name": "Hyper Focus",
       "desc": "Improves the bonus avoidability of Concentrate.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "3121003": {
       "1": {
@@ -48211,7 +48207,7 @@
       },
       "name": "Enchanted Quiver",
       "desc": "Attacks a monster using 200 arrows out of the currently equipped arrow. Allows an infinite number of arrow to be thrown for a short period of time. The bonus ATT of the arrow is not ignored like Soul Arrow.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "3121008": {
       "1": {
@@ -48375,7 +48371,7 @@
         "desc": "MP -40, Mana spend -50%, Weapon ATT +100, Avoidability +150 for 180 sec."
       },
       "name": "Concentrate",
-      "desc": "Channels the inner focus to maintain balance and precision with absurd avoidability while simultaneously decreases skill-based MP usage.    Cooldown: 5 min#"
+      "desc": "Channels the inner focus to maintain balance and precision with absurd avoidability while simultaneously decreases skill-based MP usage.    Cooldown: 5 min"
     }
   },
   "320": {
@@ -48545,7 +48541,7 @@
         "desc": "HP -10, MP -10; improves crossbow speed for 300 sec."
       },
       "name": "Crossbow Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the crossbow. It only works with a crossbow in hand. Required Skill: #cAt least Level 5 on Crossbow Mastery#"
+      "desc": "[Master Level: 20] Uses HP and MP to temporarily boost up the attacking speed of the crossbow. It only works with a crossbow in hand. Required Skill: At least Level 5 on Crossbow Mastery"
     },
     "3201004": {
       "1": {
@@ -48629,7 +48625,7 @@
         "desc": "MP -20; attack for 600 sec without using up an arrow."
       },
       "name": "Soul Arrow: Crossbow",
-      "desc": "[Master Level: 20] Temporarily allows the character to fire crossbow arrows without using up the arrows. Ignores bonus damage from arrows. Required Skill: #cAt least Level 5 on Bow Booster#"
+      "desc": "[Master Level: 20] Temporarily allows the character to fire crossbow arrows without using up the arrows. Ignores bonus damage from arrows. Required Skill: At least Level 5 on Bow Booster"
     },
     "3201003": {
       "1": {
@@ -48797,7 +48793,7 @@
         "desc": "60% success rate, final attack damage 250%"
       },
       "name": "Final Attack: Crossbow",
-      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a crossbow. Required Skill: #cAt least Level 3 on Crossbow Mastery#"
+      "desc": "[Master Level: 20] Strikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a crossbow. Required Skill: At least Level 3 on Crossbow Mastery"
     },
     "3201005": {
       "1": {
@@ -49277,7 +49273,7 @@
         "desc": "MP -80, use 1 Summoning Rock; summons an eagle that attacks 70 times in 180 sec.; 99% chance of stunning"
       },
       "name": "Golden Eagle",
-      "desc": "[Master Level: 30] Summons a golden eagle. The eagle will be hovering around you, attacking monsters nearby. Required Skill: #cAt least Level 5 on Puppet#"
+      "desc": "[Master Level: 30] Summons a golden eagle. The eagle will be hovering around you, attacking monsters nearby. Required Skill: At least Level 5 on Puppet"
     },
     "3211006": {
       "1": {
@@ -50822,7 +50818,7 @@
       },
       "name": "Snipe - Cooldown Cutter",
       "desc": "Reduces the cooldown of Snipe.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "3220014": {
       "1": {
@@ -50907,7 +50903,7 @@
       },
       "name": "Frostprey - Reinforce",
       "desc": "Boosts the base power of Frostprey and improves critical damage for all attacks.",
-      "note" : "Must be level 240 or above"
+      "note": "Must be level 240 or above"
     },
     "3221001": {
       "1": {
@@ -51320,7 +51316,7 @@
       },
       "name": "Enchanted Quiver",
       "desc": "Attacks a monster using 200 arrows out of the currently equipped arrow. Allows an infinite number of arrow to be thrown for a short period of time. The bonus ATT of the arrow is not ignored like Soul Arrow.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "3220011": {
       "1": {
@@ -51445,8 +51441,7 @@
       },
       "name": "Marksmanship",
       "desc": "Permanently gain DEX.",
-      "note" : "Must be level 210 or above"
-
+      "note": "Must be level 210 or above"
     },
     "3220012": {
       "1": {
@@ -51551,7 +51546,7 @@
       },
       "name": "Marksman's Reflex",
       "desc": "Permanently gain avoidability.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     }
   },
   "3300": {
@@ -51886,7 +51881,7 @@
         "desc": "Range of attack for the throwing weapon: +200"
       },
       "name": "Keen Eyes",
-      "desc": "[Master Level: 8] Increases the range of attack using throwing weapons such as throwing stars &amp; knives. Required Skill: #cAt least Level 3 on Nimble Body#"
+      "desc": "[Master Level: 8] Increases the range of attack using throwing weapons such as throwing stars &amp; knives. Required Skill: At least Level 3 on Nimble Body"
     },
     "4001002": {
       "1": {
@@ -52054,7 +52049,7 @@
         "desc": "MP -5; disappear for 200 sec, regular moving speed"
       },
       "name": "Dark Sight",
-      "desc": "[Master Level: 20] Use MP to hide behind the shadows. Can't be attacked, and can't attack either. Required Skill: #cAt least Level 3 on Disorder#"
+      "desc": "[Master Level: 20] Use MP to hide behind the shadows. Can't be attacked, and can't attack either. Required Skill: At least Level 3 on Disorder"
     },
     "4001344": {
       "1": {
@@ -52432,7 +52427,7 @@
         "desc": "40% success rate, critical damage 240%"
       },
       "name": "Critical Throw",
-      "desc": "[Master Level: 30] Enables the character to make a critical attack with throwing stars on a certain success rate. Required Skill: #cAt least Level 3 on Claw Mastery#"
+      "desc": "[Master Level: 30] Enables the character to make a critical attack with throwing stars on a certain success rate. Required Skill: At least Level 3 on Claw Mastery"
     },
     "4100002": {
       "1": {
@@ -52640,7 +52635,7 @@
         "desc": "MP -24; absorb 45% of damage as HP, damage 160%"
       },
       "name": "Drain",
-      "desc": "[Master Level: 30] Absorb some of the damage dished out to the enemy as HP. The most one can absorb at once is the character's MaxHP / 2, and can't absorb more than the MaxHP of the enemy. Required Skill: #cAt least Level 3 on Endure#"
+      "desc": "[Master Level: 30] Absorb some of the damage dished out to the enemy as HP. The most one can absorb at once is the character's MaxHP / 2, and can't absorb more than the MaxHP of the enemy. Required Skill: At least Level 3 on Endure"
     },
     "4101003": {
       "1": {
@@ -52724,7 +52719,7 @@
         "desc": "HP -10, MP -10; Increase in claw attacking speed for 300 sec."
       },
       "name": "Claw Booster",
-      "desc": "[Master Level: 20] Use HP and MP to temporarily boost up the attacking speed of the claw. It only applies when the character is equipped with a claw throwing stars. Required Skill: #cAt least Level 5 on Claw Mastery#"
+      "desc": "[Master Level: 20] Use HP and MP to temporarily boost up the attacking speed of the claw. It only applies when the character is equipped with a claw throwing stars. Required Skill: At least Level 5 on Claw Mastery"
     },
     "4101004": {
       "1": {
@@ -53350,7 +53345,7 @@
         "desc": "Uses Min. 340, Max. 800 mesos; Damage + 50% with 10% success rate"
       },
       "name": "Shadow Meso",
-      "desc": "[Master Level: 30] Attacks enemies with mesos and the damage is based on the amount of mesos thrown. Nullifies the monsters' &quot;weapon def. up&quot; and &quot;magic guard up.&quot;  Required Skill: #cAt least Level 5 on Meso Up#"
+      "desc": "[Master Level: 30] Attacks enemies with mesos and the damage is based on the amount of mesos thrown. Nullifies the monsters' &quot;weapon def. up&quot; and &quot;magic guard up.&quot;  Required Skill: At least Level 5 on Meso Up"
     },
     "4111005": {
       "1": {
@@ -53558,7 +53553,7 @@
         "desc": "MP -13, Jumps a certain distance"
       },
       "name": "Flash Jump",
-      "desc": "[Master Level: 20] While in the air after a jump, use this skill + the arrow up for an additional jump. The higher the skill level, the farther the distance for the jump. Can be used twice in midair. Required Skill: #cAt least Level 5 on Avenger#"
+      "desc": "[Master Level: 20] While in the air after a jump, use this skill + the arrow up for an additional jump. The higher the skill level, the farther the distance for the jump. Can be used twice in midair. Required Skill: At least Level 5 on Avenger"
     }
   },
   "412": {
@@ -54789,7 +54784,7 @@
       },
       "name": "Dark Harmony",
       "desc": "Permanently gain LUK.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "4120007": {
       "1": {
@@ -54874,7 +54869,7 @@
       },
       "name": "Advanced Shadow Partner",
       "desc": "Improves damage output from Shadow Partner.",
-      "note" : "Must be level 240 or above"
+      "note": "Must be level 240 or above"
     },
     "4120008": {
       "1": {
@@ -54919,7 +54914,7 @@
       },
       "name": "Shadow Shifter Mastery",
       "desc": "Improves the success rate of Shadow Shifter. Upon each proc, reduces Hero's Will cooldown by 2s.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "4120009": {
       "1": {
@@ -55004,7 +54999,7 @@
       },
       "name": "Shadow Stars Mastery",
       "desc": "Increases the duration of Shadow Partner, Shadow Stars and reduces the required stars.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "4121010": {
       "1": {
@@ -55128,8 +55123,8 @@
         "desc": "MP -40, sacrifice effects of Shadow Shifter to gain 15.0% of base weapon attack and 100% critical rate."
       },
       "name": "Glass Cannon",
-      "desc": "Provides a burst of bonus weapon attack and critical rate for the next 100 attacks by sacrificing the effects of #cShadow Shifter#. Stacks with other sources of Weapon ATT.   Cooldown: 5 min",
-      "note" : "Must be level 225 or above"
+      "desc": "Provides a burst of bonus weapon attack and critical rate for the next 100 attacks by sacrificing the effects of Shadow Shifter. Stacks with other sources of Weapon ATT.   Cooldown: 5 min",
+      "note": "Must be level 225 or above"
     },
     "4121005": {
       "1": {
@@ -55253,7 +55248,7 @@
         "desc": "MP -40, avoid Seduce debuffs for 40 sec."
       },
       "name": "Bad Luck Ward",
-      "desc": "Casts a sigil to ward off bad luck. Temporarily allows you to avoid being seduced. #cCooldown: 3min#"
+      "desc": "Casts a sigil to ward off bad luck. Temporarily allows you to avoid being seduced. Cooldown: 3min"
     }
   },
   "420": {
@@ -55715,7 +55710,7 @@
         "desc": "HP -10, MP -10; improves dagger speed for 300 sec."
       },
       "name": "Dagger Booster",
-      "desc": "[Master Level: 20] Use HP and MP to temporarily boost up the attacking speed of the dagger. Only applies when the character has a dagger in hand.  Required Skill: #cAt least Level 5 on Dagger Mastery#"
+      "desc": "[Master Level: 20] Use HP and MP to temporarily boost up the attacking speed of the dagger. Only applies when the character has a dagger in hand.  Required Skill: At least Level 5 on Dagger Mastery"
     },
     "4201004": {
       "1": {
@@ -55839,7 +55834,7 @@
         "desc": "MP -24, 40% success rate to steal, apply 100% in damage."
       },
       "name": "Steal",
-      "desc": "[Master Level: 30] Steals one of the monster's items with a given success rate. It works only once against the same monster. The effort can be continued until its success. Required Skill: #cAt least Level 5 on Haste#"
+      "desc": "[Master Level: 30] Steals one of the monster's items with a given success rate. It works only once against the same monster. The effort can be continued until its success. Required Skill: At least Level 5 on Haste"
     }
   },
   "421": {
@@ -56381,7 +56376,7 @@
         "desc": "MP -50; For 300 sec, Meso drop rate 60%"
       },
       "name": "Pickpocket",
-      "desc": "[Master Level: 20] Temporarily increases the amount of mesos dropped off from the attacked monsters. The amount of mesos increases in proportion to the skill level and damage done to the monsters. Required Skill: #cAt least Level 3 on Meso Explosion#"
+      "desc": "[Master Level: 20] Temporarily increases the amount of mesos dropped off from the attacked monsters. The amount of mesos increases in proportion to the skill level and damage done to the monsters. Required Skill: At least Level 3 on Meso Explosion"
     },
     "4211005": {
       "1": {
@@ -56465,7 +56460,7 @@
         "desc": "MP -35, for 300sec, save up 2500 mesos, 78% of the guarded damage replaced with mesos"
       },
       "name": "Meso Guard",
-      "desc": "[Master Level: 20] Uses mesos to guard 50% of the damage received. Once the skill is used, it saves up a certain amount of mesos, and once damaged from then on out, the mesos will be used based on the damage received. The skill will be turned off when the saved mesos are used up. Required Skill: #cAt least Level 3 on Chakra#"
+      "desc": "[Master Level: 20] Uses mesos to guard 50% of the damage received. Once the skill is used, it saves up a certain amount of mesos, and once damaged from then on out, the mesos will be used based on the damage received. The skill will be turned off when the saved mesos are used up. Required Skill: At least Level 3 on Chakra"
     },
     "4211004": {
       "1": {
@@ -57532,7 +57527,7 @@
       },
       "name": "Dark Harmony",
       "desc": "Permanently gain LUK.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "4220007": {
       "1": {
@@ -57657,8 +57652,7 @@
       },
       "name": "Boomerang Step - Extra Strike",
       "desc": "Given a chance, allows Boomerang Step to deal an additional strike.",
-      "note" : "Must be level 240 or above"
-
+      "note": "Must be level 240 or above"
     },
     "4220008": {
       "1": {
@@ -57703,7 +57697,7 @@
       },
       "name": "Shadow Shifter Mastery",
       "desc": "Improves the success rate of Shadow Shifter. Upon each proc, reduces Hero's Will cooldown by 2s.",
-      "note" : "Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "4220009": {
       "1": {
@@ -57912,8 +57906,7 @@
       },
       "name": "Smokescreen - Cooldown Cutter",
       "desc": "Reduces the cooldown of Smokescreen.",
-      "note" : "Must be level 225 or above"
-
+      "note": "Must be level 225 or above"
     },
     "4221007": {
       "1": {
@@ -58242,7 +58235,7 @@
       },
       "name": "Assassinate",
       "desc": "Strikes an unsuspecting monster at its vital spots 4 times. The last strike will always deal critical damage, but is not affected by external critical damage modifiers such as Sharp Eyes. Only works with Dark Sight enabled.",
-      "note" : "Must be level 225 or above"
+      "note": "Must be level 225 or above"
     },
     "4221005": {
       "1": {
@@ -58366,7 +58359,7 @@
         "desc": "MP -40, avoid Seduce debuffs for 40 sec."
       },
       "name": "Bad Luck Ward",
-      "desc": "Casts a sigil to ward off bad luck. Temporarily allows you to avoid being seduced. #cCooldown: 3min#"
+      "desc": "Casts a sigil to ward off bad luck. Temporarily allows you to avoid being seduced. Cooldown: 3min"
     }
   },
   "430": {
@@ -58496,7 +58489,7 @@
         "desc": "MP -18, Damage 200%, hits 3 enemies"
       },
       "name": "Triple Stab",
-      "desc": "[Master Level: 10] Uses a Dagger to attack multiple enemies three times. Required Skill: #cDouble Stab Lv. 10 or above#"
+      "desc": "[Master Level: 10] Uses a Dagger to attack multiple enemies three times. Required Skill: Double Stab Lv. 10 or above"
     },
     "4301002": {
       "1": {
@@ -58580,7 +58573,7 @@
         "desc": "HP -10, MP -10, Duration: 300 sec."
       },
       "name": "Katara Booster",
-      "desc": "[Master Level: 20] Uses HP and MP to enhance the attack speed of Daggers and Kataras. Can only be used when your character is equipped with both a Dagger and a Katara. Required Skill: #cDagger Mastery Lv. 5 or above#"
+      "desc": "[Master Level: 20] Uses HP and MP to enhance the attack speed of Daggers and Kataras. Can only be used when your character is equipped with both a Dagger and a Katara. Required Skill: Dagger Mastery Lv. 5 or above"
     }
   },
   "431": {
@@ -58918,7 +58911,7 @@
         "desc": "MP -24, attacks up to 6 enemies at 160% damage"
       },
       "name": "Slash Storm",
-      "desc": "Attacks multiple nearby enemies. The attacks become more elaborate as the skill level increases. #cLv. 6 or above: Mastery Book required# Lv. 20 effect: #cIII+ Can learn Bloody Storm.#"
+      "desc": "Attacks multiple nearby enemies. The attacks become more elaborate as the skill level increases. Lv. 6 or above: Mastery Book required Lv. 20 effect: III+ Can learn Bloody Storm."
     }
   },
   "432": {
@@ -59004,7 +58997,7 @@
         "desc": "MP -40, MP -30 MP, spin forward with 250% damage"
       },
       "name": "Tornado Spin (Attack)",
-      "desc": "Dashes forward to inflict a powerful spin attack on multiple nearby enemies. #cLv. 6 or above: Mastery Book required#"
+      "desc": "Dashes forward to inflict a powerful spin attack on multiple nearby enemies. Lv. 6 or above: Mastery Book required"
     },
     "4321002": {
       "1": {
@@ -59218,7 +59211,7 @@
         "desc": "MP -42, attacks up to 8 enemies at 280% damage"
       },
       "name": "Bloody Storm",
-      "desc": "[Master Level: 10] An advanced version of Slash Storm. Attacks multiple enemies at a very high speed with elaborate movements. Required skill: #cLv. 20 Slash Storm# Lv. 10 effect: Can be used with Lv. 10 Flying Assaulter"
+      "desc": "[Master Level: 10] An advanced version of Slash Storm. Attacks multiple enemies at a very high speed with elaborate movements. Required skill: Lv. 20 Slash Storm Lv. 10 effect: Can be used with Lv. 10 Flying Assaulter"
     },
     "4330001": {
       "1": {
@@ -59302,7 +59295,7 @@
         "desc": "Has a 49% chance to not cancel Dark Sight when attacking."
       },
       "name": "Advanced Dark Sight",
-      "desc": "[Master Level: 20] Enhances Dark Sight to allow you to sometimes successfully attack while using Dark Sight, without canceling that ability. Required Skill: #cLv. 20 Dark Sight#"
+      "desc": "[Master Level: 20] Enhances Dark Sight to allow you to sometimes successfully attack while using Dark Sight, without canceling that ability. Required Skill: Lv. 20 Dark Sight"
     },
     "4331002": {
       "1": {
@@ -59426,7 +59419,7 @@
         "desc": "MP -200, summons a doppelganger with 100% damage for 300 sec."
       },
       "name": "Mirror Image",
-      "desc": "Summons a doppelganger that looks just like you to assist in attacks for a certain amount of time. Your doppelganger cannot use certain skills.  #cLv. 11 or above: Master Book required##"
+      "desc": "Summons a doppelganger that looks just like you to assist in attacks for a certain amount of time. Your doppelganger cannot use certain skills.  Lv. 11 or above: Master Book required"
     },
     "4331003": {
       "1": {
@@ -59510,7 +59503,7 @@
         "desc": "MP -80, chance to instantly kill an enemy: 40%, if successful, grants a damage bonus for next 9 attacks, Cooldown: 60 sec."
       },
       "name": "Owl Spirit",
-      "desc": "[Master Level: 20] Summons an owl spirit that attempts to instantly kill 1 enemy. If successful, your attack rate for a set number of attacks will increase by #c1.5x#. However, the effect will be restricted on some skills."
+      "desc": "[Master Level: 20] Summons an owl spirit that attempts to instantly kill 1 enemy. If successful, your attack rate for a set number of attacks will increase by 1.5x. However, the effect will be restricted on some skills."
     },
     "4331004": {
       "1": {
@@ -59678,7 +59671,7 @@
         "desc": "MP -36, Damage: 400%, attacks up to 8 enemies, has a 7% chance to Stun for 6 sec."
       },
       "name": "Flying Assaulter",
-      "desc": "You descend diagonally from the air, slashing enemies within a certain range, with a chance to stun them. To use the skill, you must have #Self Haste# active. Lv. 10 effect: Lv. 20 Tornado Spin can be used with Lv. 10 Flying Assaulter #cLv.6 or above: Mastery Book required#"
+      "desc": "You descend diagonally from the air, slashing enemies within a certain range, with a chance to stun them. To use the skill, you must have Self Haste active. Lv. 10 effect: Lv. 20 Tornado Spin can be used with Lv. 10 Flying Assaulter Lv.6 or above: Mastery Book required"
     }
   },
   "434": {
@@ -59968,7 +59961,7 @@
         "desc": "ATT: 60, Duration: 8 sec, Poison Chance: 50%"
       },
       "name": "Venom",
-      "desc": "You attack after coating your dagger with venom. Enemies have a chance to be poisoned by the venom and continuously take damage. Can stack up to 3 times. The enemy's HP will not go below 1 through Venom. #cLv. 11 or above: Mastery Book required##"
+      "desc": "You attack after coating your dagger with venom. Enemies have a chance to be poisoned by the venom and continuously take damage. Can stack up to 3 times. The enemy's HP will not go below 1 through Venom. Lv. 11 or above: Mastery Book required"
     },
     "4341002": {
       "1": {
@@ -60132,7 +60125,7 @@
         "desc": "MP -300, HP cost 40%, Damage 1500%; Attack Rate 165%."
       },
       "name": "Final Cut",
-      "desc": "Sacrifices a significant amount of HP to deal powerful damage on multiple enemies. Once you activate this ability, your attack rate increases for the next 60 seconds. #cCooldown: 100s#"
+      "desc": "Sacrifices a significant amount of HP to deal powerful damage on multiple enemies. Once you activate this ability, your attack rate increases for the next 60 seconds. Cooldown: 100s"
     },
     "4341011": {
       "1": {
@@ -60296,7 +60289,7 @@
         "desc": "MP -40, Damage 130%, attacks 4 times"
       },
       "name": "Blade Fury",
-      "desc": "The secret behind Secret Garden's tornado. Spin furiously with your two blades to damage up to 6 nearby enemies. #cLv. 11 or above: Mastery Book required#"
+      "desc": "The secret behind Secret Garden's tornado. Spin furiously with your two blades to damage up to 6 nearby enemies. Lv. 11 or above: Mastery Book required"
     },
     "4341006": {
       "1": {
@@ -60420,7 +60413,7 @@
         "desc": "MP -250, summons a dummy with 15500 HP for 90 sec."
       },
       "name": "Mirrored Target",
-      "desc": "Disassembles the doppelganger summoned via Mirror Image and turns it into a dummy. The dummy attracts the enemy's attacks, protecting you from them. This skill can only be used when Mirror Image is active. Required Skill: #cLv. 30 Mirror Image# #cLv. 11 or above: Mastery Book required#"
+      "desc": "Disassembles the doppelganger summoned via Mirror Image and turns it into a dummy. The dummy attracts the enemy's attacks, protecting you from them. This skill can only be used when Mirror Image is active. Required Skill: Lv. 30 Mirror Image Lv. 11 or above: Mastery Book required"
     },
     "4341007": {
       "1": {
@@ -60544,7 +60537,7 @@
         "desc": "MP -400, Critical Chance: 35%, Critical Damage: 250%, Duration: 300 sec."
       },
       "name": "Thorns",
-      "desc": "Grants a higher chance of getting critical attacks. Party members only gain half of the effect, and the skill is restricted when you use abilities with high critical chances.  #cLv. 11 or above: Mastery Book required#"
+      "desc": "Grants a higher chance of getting critical attacks. Party members only gain half of the effect, and the skill is restricted when you use abilities with high critical chances.  Lv. 11 or above: Mastery Book required"
     },
     "4341008": {
       "1": {
@@ -60732,7 +60725,7 @@
         "desc": "MP -42, Damage 310%, attack 6 times."
       },
       "name": "Phantom Blow",
-      "desc": "The secret technique of raging Secret Garden. Deals a flurry of piercing attacks against one enemy. #cLv. 11 or above: Mastery Book required#"
+      "desc": "The secret technique of raging Secret Garden. Deals a flurry of piercing attacks against one enemy. Lv. 11 or above: Mastery Book required"
     },
     "4340003": {
       "1": {
@@ -60816,7 +60809,8 @@
         "desc": "Damage +20%"
       },
       "name": "Phantom Blow - Reinforce",
-      "desc": "Increases the damage of Phantom Blow."
+      "desc": "Increases the damage of Phantom Blow.",
+      "note": "Must be level 225 or above"
     },
     "4341010": {
       "1": {
@@ -60940,7 +60934,8 @@
         "desc": "MP -300. For 60 sec, ignore weapon cancel effects at a 90% rate. Passively gain +30 LUK."
       },
       "name": "Hidden Blade",
-      "desc": "Summons a dagger from the Secret Garden. Allows you to temporarily ignore weapon cancel effects on monsters. Passively increases LUK. #cCooldown: 2min#"
+      "desc": "Summons a dagger from the Secret Garden. Allows you to temporarily ignore weapon cancel effects on monsters. Passively increases LUK. Cooldown: 2min",
+      "note": "Must be level 210 or above"
     },
     "4340004": {
       "1": {
@@ -61024,7 +61019,8 @@
         "desc": "Damage +20%"
       },
       "name": "Blade Fury - Reinforce",
-      "desc": "Increases the damage of Blade Fury."
+      "desc": "Increases the damage of Blade Fury.",
+      "note": "Must be level 210 or above"
     },
     "4340005": {
       "1": {
@@ -61128,7 +61124,8 @@
         "desc": "-25 seconds."
       },
       "name": "Extreme Cut",
-      "desc": "Reduces the cooldown of Final Cut."
+      "desc": "Reduces the cooldown of Final Cut.",
+      "note": "Must be level 240 or above"
     },
     "4340002": {
       "1": {
@@ -61172,7 +61169,8 @@
         "desc": "15% chance to avoid a fatal attack. Avoidability +200."
       },
       "name": "Close Call",
-      "desc": "With amazing stealth abilities, allows you a chance to cheat death and avoid a fatal attack. Passively gain avoidability."
+      "desc": "With amazing stealth abilities, allows you a chance to cheat death and avoid a fatal attack. Passively gain avoidability.",
+      "note": "Must be level 225 or above"
     },
     "4341004": {
       "1": {
@@ -61320,7 +61318,7 @@
         "desc": "MP -200, Reset the cooldown of Final Cut and become invincible for 5 sec. Cooldown: 240s."
       },
       "name": "Secret Scroll",
-      "desc": "Recall a top secret technique with the Secret Garden scroll. Instantly resets the cooldown of #cFinal Cut# and makes you invincible for a short duration."
+      "desc": "Recall a top secret technique with the Secret Garden scroll. Instantly resets the cooldown of Final Cut and makes you invincible for a short duration."
     }
   },
   "500": {
@@ -62256,7 +62254,7 @@
         "desc": "HP -10, MP -10; Improves speed of Knuckle for 300 sec."
       },
       "name": "Knuckle Booster",
-      "desc": "[Master Level: 20] Uses parts of HP and MP to temporarily boost the speed of a Knuckle. This skill can only be triggered when a Knuckle is equipped.  Required Skill: #cLevel 5 or above on Knuckle Mastery"
+      "desc": "[Master Level: 20] Uses parts of HP and MP to temporarily boost the speed of a Knuckle. This skill can only be triggered when a Knuckle is equipped.  Required Skill: Level 5 or above on Knuckle Mastery"
     }
   },
   "511": {
@@ -62342,7 +62340,7 @@
         "desc": "Damage 360%, 20% of the damage used to recover HP"
       },
       "name": "Energy Drain",
-      "desc": "[Master Level: 20] Uses energy to convert the lost HP of a monster into your own HP. This skill can only be used when #cthe energy is full charged#. Required Skill: #cLevel 1 of Energy Charge#"
+      "desc": "[Master Level: 20] Uses energy to convert the lost HP of a monster into your own HP. This skill can only be used when the energy is full charged. Required Skill: Level 1 of Energy Charge"
     },
     "5111005": {
       "1": {
@@ -62550,7 +62548,7 @@
         "desc": "MP -38, damage 700%, attacks up to 6 monsters"
       },
       "name": "Shockwave",
-      "desc": "[Master Level: 30] Strikes the ground with tremendous force, affecting multiple monsters. This skill can only be used during #cTransformation or Super Transformation#. Required Skill: #cLevel 1 of Transformation#"
+      "desc": "[Master Level: 30] Strikes the ground with tremendous force, affecting multiple monsters. This skill can only be used during Transformation or Super Transformation. Required Skill: Level 1 of Transformation"
     },
     "5110001": {
       "1": {
@@ -62687,7 +62685,7 @@
       },
       "34": {
         "damage": "170",
-        "desc": "[Master Level: 30] Strikes the ground with tremendous force, affecting multiple monsters. This skill can only be used during #cTransformation or Super Transformation#. Required Skill: #cLevel 1 of Transformation#"
+        "desc": "[Master Level: 30] Strikes the ground with tremendous force, affecting multiple monsters. This skill can only be used during Transformation or Super Transformation. Required Skill: Level 1 of Transformation"
       },
       "35": {
         "damage": "175",
@@ -62838,7 +62836,7 @@
         "desc": "Damage 420%, attacks up to 4 monsters"
       },
       "name": "Energy Blast",
-      "desc": "[Master Level: 30] Blasts a ball of energy to attack multiple monsters at once. This skill can only be used when #cthe energy is fully charged#. Required Skill: #cLevel 1 of Energy Charge#"
+      "desc": "[Master Level: 30] Blasts a ball of energy to attack multiple monsters at once. This skill can only be used when the energy is fully charged. Required Skill: Level 1 of Energy Charge"
     },
     "5110007": {
       "1": {
@@ -63048,7 +63046,7 @@
         "desc": "damage 1050%, attacks 6 monsters, passively gain +50% more energy with any skill."
       },
       "name": "Energy Orb",
-      "desc": "Uses a blast of powerful energy to strike nearby monsters. Only available when the #cenergy is fully charged. Passively gain more energy every hit on all skills. Required Skill: #cLevel 1 of Energy Charge"
+      "desc": "Uses a blast of powerful energy to strike nearby monsters. Only available when the energy is fully charged. Passively gain more energy every hit on all skills. Required Skill: Level 1 of Energy Charge"
     },
     "5121003": {
       "1": {
@@ -63132,7 +63130,7 @@
         "desc": "MP -60; speed +40, jump +20, weapon &amp; magic def. +60, use 1 Magic Rock."
       },
       "name": "Super Transformation",
-      "desc": "Increases power to extreme levels for 120 seconds.  Available skills: Changes have been made so that while using the Viper skill, Super Transform, you can now use all skills excluding the Oak Barrel and the Double Fire.  Required Skill: #cLevel 20 of Transformation#"
+      "desc": "Increases power to extreme levels for 120 seconds.  Available skills: Changes have been made so that while using the Viper skill, Super Transform, you can now use all skills excluding the Oak Barrel and the Double Fire.  Required Skill: Level 20 of Transformation"
     },
     "5121008": {
       "1": {
@@ -63320,7 +63318,7 @@
         "desc": "MP -50; attacks a monster 8 times with damage 600% per hit"
       },
       "name": "Demolition",
-      "desc": "Apply a significant damage to a single monster by attacking it in a blinding speed. Only available when under a state of #cSuper Transformation#. Required Skill: #cLevel 1 of Super Transformation#"
+      "desc": "Apply a significant damage to a single monster by attacking it in a blinding speed. Only available when under a state of Super Transformation. Required Skill: Level 1 of Super Transformation"
     },
     "5121005": {
       "1": {
@@ -63444,7 +63442,7 @@
         "desc": "MP -40, damage 600%, attacks 6 monsters"
       },
       "name": "Snatch",
-      "desc": "Applies damage to a monster that's far away, and drags it right in front of you. Only available when under a state of #cSuper Transformation#. Required Skill: #cLevel 1 of Super Transformation#"
+      "desc": "Applies damage to a monster that's far away, and drags it right in front of you. Only available when under a state of Super Transformation. Required Skill: Level 1 of Super Transformation"
     },
     "5121000": {
       "1": {
@@ -64132,7 +64130,6 @@
       "name": "Energize",
       "desc": "Passively grants faster energy charging.",
       "note": "Must be level 210 or above"
-
     },
     "5120006": {
       "1": {
@@ -64218,7 +64215,6 @@
       "name": "Dragon Strike - Reinforce",
       "desc": "Boosts the base power of Dragon Strike.",
       "note": "Must be level 210 or above"
-
     },
     "5120007": {
       "1": {
@@ -64387,7 +64383,7 @@
         "desc": "HP -40, MP -40; boosts weapon attack speed by 2 levels for 300 sec."
       },
       "name": "Speed Infusion",
-      "desc": "Uses HP and MP to temporarily increase the attacking speed of a weapon. This can be combined with other boosters, and everyone in the party will have their attacking speed increased. Required Skill: #cLevel 20 of Knuckle Booster#"
+      "desc": "Uses HP and MP to temporarily increase the attacking speed of a weapon. This can be combined with other boosters, and everyone in the party will have their attacking speed increased. Required Skill: Level 20 of Knuckle Booster"
     },
     "5121010": {
       "1": {
@@ -64488,7 +64484,7 @@
       },
       "25": {
         "mp": "75",
-        "desc": "Uses HP and MP to temporarily increase the attacking speed of a weapon. This can be combined with other boosters, and everyone in the party will have their attacking speed increased. Required Skill: #cLevel 20 of Knuckle Booster#"
+        "desc": "Uses HP and MP to temporarily increase the attacking speed of a weapon. This can be combined with other boosters, and everyone in the party will have their attacking speed increased. Required Skill: Level 20 of Knuckle Booster"
       },
       "26": {
         "mp": "70",
@@ -64977,7 +64973,7 @@
         "desc": "MP -26, damage 260%"
       },
       "name": "Recoil Shot",
-      "desc": "[Master Level: 20] Uses the recoil of the gun to run back after a gunshot.  Required Skill: #cLevel 5 or above on Wings#"
+      "desc": "[Master Level: 20] Uses the recoil of the gun to run back after a gunshot.  Required Skill: Level 5 or above on Wings"
     },
     "5201003": {
       "1": {
@@ -65061,7 +65057,7 @@
         "desc": "HP -10, MP -10; Improves gun speed for 300 sec."
       },
       "name": "Gun Booster",
-      "desc": "[Master Level: 20] Uses parts of HP and MP to temporarily boost the firing speed of the Gun.This skill can only be triggered when the Gun is equipped.  Required Skill: #cLevel 5 or above on Gun Mastery"
+      "desc": "[Master Level: 20] Uses parts of HP and MP to temporarily boost the firing speed of the Gun.This skill can only be triggered when the Gun is equipped.  Required Skill: Level 5 or above on Gun Mastery"
     }
   },
   "521": {
@@ -65147,7 +65143,7 @@
         "desc": "MP -22, damage 190%"
       },
       "name": "Burst Fire",
-      "desc": "[Master Level: 20] Increases the potency and the number of bullets fired when using Double Shot. Required Skill: #cLevel 20 of Double Shot#"
+      "desc": "[Master Level: 20] Increases the potency and the number of bullets fired when using Double Shot. Required Skill: Level 20 of Double Shot"
     },
     "5211001": {
       "1": {
@@ -65271,7 +65267,7 @@
         "desc": "MP -25, attack rate 200, sustained for 30 sec."
       },
       "name": "Octopus",
-      "desc": "[Master Level: 30] Summons a loyal octopus that'll aid your attacks. The summoned octopus will not move, however. #cCan only summon one Octopus at a time. Cooldown: 10 sec#"
+      "desc": "[Master Level: 30] Summons a loyal octopus that'll aid your attacks. The summoned octopus will not move, however. Can only summon one Octopus at a time. Cooldown: 10 sec"
     },
     "5211002": {
       "1": {
@@ -65395,7 +65391,7 @@
         "desc": "MP -20, attack rate 450, sustained for 30 sec."
       },
       "name": "Gaviota",
-      "desc": "[Master Level: 30] Summons Gaviota, who's trained to throw a grenade at monsters. The summoned Gaviota continuously attack monsters.  #cWaiting time: 5 sec.#"
+      "desc": "[Master Level: 30] Summons Gaviota, who's trained to throw a grenade at monsters. The summoned Gaviota continuously attack monsters.  Waiting time: 5 sec."
     },
     "5211006": {
       "1": {
@@ -65941,7 +65937,7 @@
         "desc": "MP -40, damage 630%, additional damage +30%"
       },
       "name": "Bullseye",
-      "desc": "Applies more damage to monsters under the effect of Homing Beacon. Required Skill: #cLevel 30 of Homing Beacon#"
+      "desc": "Applies more damage to monsters under the effect of Homing Beacon. Required Skill: Level 30 of Homing Beacon"
     },
     "5220002": {
       "1": {
@@ -66025,7 +66021,7 @@
         "desc": "MP -35; attack rate 500, available for 40 sec, 10 sec. until next use"
       },
       "name": "Wrath of the Octopi",
-      "desc": "An additional octopus is summoned, increasing the fire rate and the damage. Required Skill: #cLevel 30 of Octopus#"
+      "desc": "An additional octopus is summoned, increasing the fire rate and the damage. Required Skill: Level 30 of Octopus"
     },
     "5221000": {
       "1": {
@@ -66313,7 +66309,7 @@
         "desc": "MP -9, damage 270%"
       },
       "name": "Rapid Fire",
-      "desc": "Fires rounds of bullets very quickly. Hold on to the skill key for continued shooting. Required Skill: #cLevel 20 of Burst Fire#"
+      "desc": "Fires rounds of bullets very quickly. Hold on to the skill key for continued shooting. Required Skill: Level 20 of Burst Fire"
     },
     "5221009": {
       "1": {
@@ -66685,7 +66681,7 @@
         "desc": "MP -40, attacks 5 times with damage 450%"
       },
       "name": "Battleship Cannon",
-      "desc": "Rapidly fires a number of cannonballs. Only available when aboard the Battleship. Required Skill: #cLevel 1 of Battleship#"
+      "desc": "Rapidly fires a number of cannonballs. Only available when aboard the Battleship. Required Skill: Level 1 of Battleship"
     },
     "5221008": {
       "1": {
@@ -66809,7 +66805,7 @@
         "desc": "MP -40, damage 900%, attacks 6 monsters"
       },
       "name": "Battleship Torpedo",
-      "desc": "Fires a hardened cannonball that goes through monsters. Only available when aboard the Battleship. Required Skill: #cLevel 1 of Battleship#"
+      "desc": "Fires a hardened cannonball that goes through monsters. Only available when aboard the Battleship. Required Skill: Level 1 of Battleship"
     },
     "5221010": {
       "1": {
@@ -67417,7 +67413,7 @@
         "desc": "MP -600, damage 1500%"
       },
       "name": "Aerial Strike",
-      "desc": "Uses the grenade attack of Gaviota to damage up to 12 monsters.  Cooldown: #c5s#"
+      "desc": "Uses the grenade attack of Gaviota to damage up to 12 monsters.  Cooldown: 5s"
     },
     "5221012": {
       "1": {
@@ -67463,7 +67459,6 @@
       "name": "Full Metal Jacket",
       "desc": "Coat your bullets with metal. Increases Damage of Rapid Fire and Battleship Torpedo.",
       "note": "Must be level 225 or above"
-
     }
   },
   "800": {

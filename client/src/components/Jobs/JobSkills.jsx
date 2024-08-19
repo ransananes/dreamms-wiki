@@ -83,9 +83,9 @@ function JobSkills({ job }) {
                     </Card.Text>
                   </Col>
                   {/* Second Column: Skill Levels */}
-                  <Col md={6} className="text-white">
+                  <Col md={6} className="text-white mt-3">
                     <Card.Text>
-                      <strong>Skill Levels:</strong>
+                      <strong  style={{marginRight:"1rem"}}>Skill Levels:</strong>
                     </Card.Text>
                     <Accordion>
                       <Accordion.Item eventKey={skill.id}>
