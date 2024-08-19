@@ -8,19 +8,22 @@ import Footer from "./components/common/Footer";
 
 function App() {
   return (
-    <>
-      <Router>
-        <div className="App">
-          <Searchbar />
+    <Router>
+      <div
+        className="App"
+        style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}
+      >
+        <Searchbar />
+        <div style={{ flex: "1" }}>
           <Routes>
             <Route path="/:job" element={<JobPage />} />
             <Route path="/" element={<HomePage />} />
             <Route path="*" element={<NotFoundPage />} />{" "}
           </Routes>
-          <Footer />
         </div>
-      </Router>
-    </>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 
