@@ -49,14 +49,13 @@ function JobSkills({ job }) {
 
   return (
     <div className="container mt-4 text-center">
-      <Row>
+      <Row >
         {skills.map((skill) => (
           <Col md={12} key={skill.id} className="mb-3">
-            <Card>
+            <Card style={{backgroundColor: "#1B1B1B"}}>
               <Card.Body>
                 <Row>
-                  {/* First Column: Skill Name and Description */}
-                  <Col md={6}>
+                  <Col md={6} className="text-white">
                     <Card.Img
                       variant="top"
                       src={`${SERVER}/skills/${skill.id}.png`}
@@ -67,11 +66,11 @@ function JobSkills({ job }) {
                     <Card.Text>
                       <span>{skill.desc}</span>
 
-                      <span>{skill.note}</span>
+                      <span className="d-block" style={{color:"red"}}>{skill.note}</span>
                     </Card.Text>
                   </Col>
                   {/* Second Column: Skill Levels */}
-                  <Col md={6}>
+                  <Col md={6} className="text-white">
                     <Card.Text>
                       <strong>Skill Levels:</strong>
                     </Card.Text>
