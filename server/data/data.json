@@ -39888,7 +39888,7 @@
       },
       "name": "Onyx Shroud",
       "desc": "Temporarily increases avoidability for party members. Passively grants a 50% boost to Magic Amplification.",
-      "note":"Must be level 210 or above"
+      "note": "Must be level 210 or above"
     },
     "22180003": {
       "1": {
@@ -56860,98 +56860,6 @@
       "name": "Shadow Shifter",
       "desc": "With great reflexes, enables one to avoid the monster's attack."
     },
-    "4221004": {
-      "1": {
-        "damage": "62"
-      },
-      "2": {
-        "damage": "64"
-      },
-      "3": {
-        "damage": "66"
-      },
-      "4": {
-        "damage": "68"
-      },
-      "5": {
-        "damage": "70"
-      },
-      "6": {
-        "damage": "72"
-      },
-      "7": {
-        "damage": "74"
-      },
-      "8": {
-        "damage": "76"
-      },
-      "9": {
-        "damage": "78"
-      },
-      "10": {
-        "damage": "80"
-      },
-      "11": {
-        "damage": "81"
-      },
-      "12": {
-        "damage": "82"
-      },
-      "13": {
-        "damage": "83"
-      },
-      "14": {
-        "damage": "84"
-      },
-      "15": {
-        "damage": "85"
-      },
-      "16": {
-        "damage": "86"
-      },
-      "17": {
-        "damage": "87"
-      },
-      "18": {
-        "damage": "88"
-      },
-      "19": {
-        "damage": "89"
-      },
-      "20": {
-        "damage": "90"
-      },
-      "21": {
-        "damage": "91"
-      },
-      "22": {
-        "damage": "92"
-      },
-      "23": {
-        "damage": "93"
-      },
-      "24": {
-        "damage": "94"
-      },
-      "25": {
-        "damage": "95"
-      },
-      "26": {
-        "damage": "96"
-      },
-      "27": {
-        "damage": "97"
-      },
-      "28": {
-        "damage": "98"
-      },
-      "29": {
-        "damage": "99"
-      },
-      "30": {
-        "damage": "100"
-      }
-    },
     "4221006": {
       "1": {
         "mp": "16",
@@ -57821,7 +57729,8 @@
         "desc": "30% chance to deal an additional strike."
       },
       "name": "Assassinate - Extra Strike",
-      "desc": "Given a chance, allows Assassinate to deal an additional strike."
+      "desc": "Given a chance, allows Assassinate to deal an additional strike.",
+      "note": "Must be level 225 or above"
     },
     "4220010": {
       "1": {
