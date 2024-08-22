@@ -58143,8 +58143,7 @@
         "desc": "MP -40, Attack 1500%, last strike +500% damage."
       },
       "name": "Assassinate",
-      "desc": "Strikes an unsuspecting monster at its vital spots 4 times. The last strike will always deal critical damage, but is not affected by external critical damage modifiers such as Sharp Eyes. Only works with Dark Sight enabled.",
-      "note": "Must be level 225 or above"
+      "desc": "Strikes an unsuspecting monster at its vital spots 4 times. The last strike will always deal critical damage, but is not affected by external critical damage modifiers such as Sharp Eyes. Only works with Dark Sight enabled."
     },
     "4221005": {
       "1": {
